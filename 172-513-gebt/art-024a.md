@@ -1,3 +1,5 @@
-# Art. 24a Feuerungskontrolle
-1 Für die ordentliche Feuerungskontrolle von messpflichtigen Öl-, Gas- und Holzfeuerungen wird eine pauschale Grundgebühr von Fr. 35.– bei der Anlageeigentümerin oder bei dem Anlageeigentümer erhoben.
-2 Bei den der privaten Kontrolle unterstellten Anlagen wird die Grundgebühr beim privaten Kontrolleur erhoben.
+# Art. 24a Feuerungskontrolle a) Grundgebühr
+1 Für die periodische Feuerungskontrolle von messpflichtigen Öl-, Gas- und Holzfeuerungen beträgt die pauschale Grundgebühr zur Deckung der administrativen Kosten 35.--.
+2 Sie wird erhoben
+a) bei der Eigentümerin oder dem Eigentümer der Feuerungsanlage, sofern eine amtliche Feuerungskontrolle erfolgt;
+b) beim privaten Feuerungskontrollunternehmen, sofern die Eigentümerin oder der Eigentümer der Feuerungsanlage es mit der Feuerungskontrolle beauftragt hat.
