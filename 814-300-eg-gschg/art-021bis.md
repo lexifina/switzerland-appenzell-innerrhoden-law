@@ -1,0 +1,2 @@
+# Art. 21bis Bewilligungs- und Kontrollgebühren
+1 Für Bewilligungen, Kontrollen und besondere Dienstleistungen nach eidgenössischem oder kantonalem Gewässerschutzrecht werden Gebühren bis höchstens Fr. 5'000.-- erhoben. Die Kosten für die öffentliche Auflage bzw. Publikation von Gesuchen, für Kontrollen und allfällige Gutachten etc. hat der Gesuchsteller zu tragen.
