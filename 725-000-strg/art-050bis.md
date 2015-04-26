@@ -1,0 +1,8 @@
+# Art. 50bis Beiträge des Kantons und der Bezirke
+1 Die Kosten für Anpassung und Aufhebung von Bahnübergängen haben Bahnunternehmung und Strasseneigentümer in dem Verhältnis zu tragen, als die Entwicklung des Verkehrs auf ihren Anlagen sie bedingt. Lässt sich die Entwicklung nicht feststellen, leisten der Kanton und die Bezirke Beiträge nach diesem Artikel.
+2 Der Kanton leistet Beiträge an die Kosten der Aufhebung oder Anpassung bestehender Bahnübergänge auf Bezirks- und Privatstrassen, welche der Verordnung über Bau und Betrieb der Eisenbahnen vom 23. November 1983 (EBV) nicht entsprechen und gemäss Art. 37f EBV aufzuheben oder anzupassen sind.
+3 Die Bezirke leisten Beiträge an die Kosten der Aufhebung oder Anpassung bestehender Bahnübergänge auf Privatstrassen.
+4 Sofern Privatpersonen die Kostentragung unter Berücksichtigung der gemäss diesem Artikel zu leistenden Kantons- und Bezirksbeiträge nicht oder nur teilweise zumutbar ist, werden die Beiträge des Kantons und der Bezirke entsprechend erhöht.
+5 Die von Kanton und Bezirk zu leistenden Beiträge können gekürzt oder verweigert werden, wenn die geplante Sanierungsmassnahme im Vergleich zu anderen möglichen Massnahmen unverhältnismässig oder unzweckmässig erscheint.
+6 Der Kanton kann die von Privatpersonen zu tragenden Kosten der Aufhebung oder Anpassung bestehender Bahnübergänge auf Privatstrassen bevorschussen. Für die bevorschussten Kosten samt Zinsen besteht ein allen anderen Pfandrechten vorangehendes gesetzliches Grundpfandrecht ohne Eintragung im Grundbuch.
+7 Der Grosse Rat erlässt die erforderlichen Ausführungsbestimmungen.
