@@ -1,0 +1,2 @@
+# Art. 22d Betreuung durch die Schulische Heilpädagogin
+1 Die Schulische Heilpädagogin fördert und unterrichtet Schulkinder mit Schulschwierigkeiten und ist für eine ganzheitliche förderorientierte Erfassung und Förderung des Kindes besorgt. Nach der Problemerkennung und einer ersten Erfassung wird in Absprache mit der Lehrkraft und den Eltern der Umfang (Anzahl Lektionen und Dauer) und die Form der Förderung (Einzelförderung, Kleingruppe, integrativ in der Klasse) vereinbart. Der Schulrat ist regelmässig zu informieren.
