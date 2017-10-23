@@ -1,0 +1,6 @@
+# Art. 51c Kostengutsprachen und Elternbeiträge
+1 Kostengutsprachen müssen vor Beginn der Massnahme beim Departement, für Sonderschulen bei der Standeskommission eingeholt werden. Bei verspäteten Gesuchen können Leistungen gekürzt oder verweigert werden.
+2 Die Eltern können zur Finanzierung zugezogen werden, wenn sie durch auswärtige Verpflegung oder Unterbringung ihres Kindes entlastet werden.
+3 Den Eltern können Beiträge zugesprochen werden, wenn sie Leistungen erbringen, die den Kanton entlasten. In Ausnahmefällen kann das Departement für Heimaufenthalte von Sonderschulkindern, die der vorübergehenden Entlastung solcher Eltern dienen, Kostengutsprachen erteilen, wobei Elternbeiträge von bis zu Fr. 80.-- pro Kalendertag zu erheben sind.
+4 Erweist sich nach Abschluss der Schulpflicht eine berufliche Eingliederung als nicht möglich und eine weitere Sonderschulung als nicht sinnvoll, kann das Departement bis maximal zum vollendeten 18. Altersjahr Kostengutsprache für eine Institution ausserhalb des Sonderschulbereichs leisten. Es werden Elternbeiträge von bis zu Fr. 40.-- pro Kalendertag erhoben.
+5 Bei Spitalschulungen kann das Departement Kostengutsprachen erteilen, in der Regel für maximal Fr. 100.-- pro Kalendertag.
