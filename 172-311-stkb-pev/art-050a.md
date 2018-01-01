@@ -1,0 +1,3 @@
+# Art. 50a Öffentliches Amt oder Mithilfe an sozialen Veranstaltungen
+1 Zur unmittelbaren Ausübung eines öffentlichen Amtes im Kanton besteht Anspruch auf bezahlten Urlaub von bis zu fünf Tagen; kein Anspruch besteht für Tätigkeiten, die ausserhalb der Arbeitszeit erledigt werden können, insbesondere für Vor- und Nachbereitungen.
+2 Für Leiterinnen und Leiter sowie Hilfskräfte von Veranstaltungen mit sozialem Bezug kann die Standeskommission pro Kalenderjahr bis zu fünf Tagen bezahlten Urlaub gewähren; zudem gilt das Recht auf Bezug von unbezahltem Urlaub nach Art. 329e des Schweizerischen Obligationenrechts.
