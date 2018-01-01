@@ -1,0 +1,5 @@
+# Art. 5a Berechnung für junge Erwachsene
+1 Bei jungen Erwachsenen wird die rechtskräftige definitive Steuerveranlagung des Vorjahres zum Anspruchsjahr abgewartet.
+2 Liegt das massgebende Gesamteinkommen sowohl des Vorjahres als auch des Vorvorjahres zum Anspruchsjahr über Fr. 12'000.--, wird die Prämienverbilligung auf der rechtskräftigen definitiven Steuerveranlagung des Vorvorjahres berechnet.
+3 Liegt das massgebende Gesamteinkommen des Vorjahres, nicht aber jenes des Vorvorjahres über Fr. 12'000.--, wird die Prämienverbilligung auf der Grundlage der rechtskräftigen definitiven Steuerveranlagung des Vorjahres berechnet.
+4 Für die Berechnung des Gesamtanspruchs nach Art. 3 Abs. 3 wird die rechtskräftige definitive Steuerveranlagung des jungen Erwachsenen des Vorjahres zum Anspruchsjahr berücksichtigt. Dementsprechend wird ein allfälliger Gesamtanspruch für alle im Haushalt lebenden Personen erst nach Vorliegen der rechtskräftigen definitiven Steuerveranlagung des jungen Erwachsenen für das Vorjahr geprüft.
