@@ -11,9 +11,9 @@
 ### B.III. Überspringen von Primarklassen
 ### B.IV. Informationen bei Klassenwechsel
 ### B.V. Förderung sportlich oder musisch besonders begabter Schüler
-## C. Fortbildung der Lehrkräfte
+## C. Aus- und Weiterbildung der Lehrpersonen
 ### C.I. Allgemeine Bestimmungen
-### C.II. Intensivfortbildung
+### C.II. Langzeitweiterbildung
 ### C.III. Berufsbegleitende Stufenspezialisierung
 ## D. Zeugnisse
 ### D.I. Zeugnisreglement für die Primarschule
@@ -21,7 +21,7 @@
 ### D.III. Gemeinsame Bestimmungen
 ## E. Übertrittsregelungen
 ### E.I. Übertrittsregelung zur Aufnahme in die Abteilungen der Sekundarstufe I
-### E.II. Übertrittsregelung für die Schulgemeinde Oberegg zur Aufnahme in die Abteilungen der Sekundarstufe l
+### E.II. Übertrittsregelung für den Bezirk Oberegg zur Aufnahme in die Abteilungen der Sekundarstufe l
 ### E.III. Gemeinsame Bestimmungen
 ## F. Schulversuche
 ## G. Organisatorisches
@@ -36,7 +36,7 @@
 ### I.II. Beiträge für Renovationsarbeiten und Umbauten
 ### I.III. Beiträge an die Aktion Freizeitgestaltung
 ### I.IV. Beiträge an die Musikschule
-## J. Aufgabenübertragung an Lehrpersonen
+## J. Aufgabenübertragung an Schulvorsteher und Schulleiter
 ## K. Schlussbestimmung
-## A1. Anhang 1: Schulische Betreuung mit nicht pädagogisch ausgebildeten Personen
+## A1. Anhang 1: Schulische Betreuung mit nicht pädagogisch ausgebildeten Personen (Klassenassistenzen)
 ## A2. …

@@ -1,3 +1,3 @@
-# Art. 69e Entscheid
-1 Der Schulrat nimmt die Einteilung in die Stammklassen und Niveaugruppen vor und teilt den Entscheid den Inhabern der elterlichen Sorge schriftlich mit.
-2 Beim Entscheid über die Zuweisung an das Gymnasium Appenzell zieht er den Rektor und den Leiter des Schulamtes beratend bei.
+# Art. 69e Aufnahmeentscheid
+1 Die Schulleitung fällt den Aufnahmeentscheid über die Zuweisung an das Gymnasium Appenzell in Absprache mit der Schulleitung des Gymnasiums und dem Volksschulamt.
+2 Der Entscheid wird den Inhabern der elterlichen Sorge schriftlich mitgeteilt.

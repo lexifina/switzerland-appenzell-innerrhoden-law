@@ -1,2 +1,2 @@
 # Art. 22e Individuelle Lernziele
-1 Für Kinder und Jugendliche mit Schulleistungsproblemen können individuelle Rahmenbedingungen geschaffen werden. Kann ein Kind die Ziele des Lehrplanes seiner Stufe nicht erreichen, definiert eine Schulische Heilpädagogin, zusammen mit der Lehrkraft und in Absprache mit den Eltern individuelle Lernziele. Im Zeugnis wird bei den Fächern mit reduzierten Lernzielen ein Vermerk auf den beiliegenden Lernzielkatalog gemacht.
+1 In Absprache mit den Inhabern der elterlichen Sorge und dem Volksschulamt oder der Schulleitung können für Schüler in einzelnen Fachbereichen individuelle Lernziele festgelegt werden. Dies wird im Notenfeld mit "ILZ" und dem Hinweis "Dokumentation Lernbericht" ausgewiesen.
