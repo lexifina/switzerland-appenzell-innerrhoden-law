@@ -1,6 +1,7 @@
-## l. Allgemeines
-## II. Betriebsmittel
-## III. Geschäftskreis
-## IV. Verwaltung und Aufsicht
-## V. Rechnungsabschluss, Reingewinn, Reservefonds
-## VI. Schlussbestimmung
+## I. Allgemeines
+## II. Geschäftskreis
+## III. Finanzen
+## IV. Aufsicht und Organisation
+## V. Rechnungsabschluss, Ausschüttung
+## VI. Personal und Haftung
+## VII. Schlussbestimmungen
