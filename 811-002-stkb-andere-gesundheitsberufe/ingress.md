@@ -1,5 +1,6 @@
 # Standeskommissionsbeschluss über die Ausübung der anderen Berufe des Gesundheitswesens
-vom 27.06.2000
+(StKB andere Gesundheitsberufe)
+vom 04.12.2018
 Die Standeskommission des Kantons Appenzell I.Rh.,
-gestützt auf Art. 8 des Gesundheitsgesetzes vom 26. April 1998,
+gestützt auf Art. 8 sowie Art. 14 Abs. 1 und 2 des Gesundheitsgesetzes vom 26. April 1998,
 beschliesst:
