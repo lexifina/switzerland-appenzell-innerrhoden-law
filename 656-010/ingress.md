@@ -1,5 +1,5 @@
-# Grossratsbeschluss zur Festsetzung der Steuerparameter für das Jahr 2019
-vom 03.12.2018
+# Grossratsbeschluss zur Festsetzung der Steuerparameter für das Jahr 2020
+vom 02.12.2019
 Der Grosse Rat des Kantons Appenzell I.Rh.,
-gestützt auf Art. 3 Abs. 2 lit. a, Art. 38 Abs. 4, Art. 67 und Art. 75 Abs. 1 des Steuergesetzes vom 25. April 1999,
-beschliesst.
+gestützt auf Art. 3, 67 und 75 des Steuergesetzes vom 25. April 1999
+beschliesst:
