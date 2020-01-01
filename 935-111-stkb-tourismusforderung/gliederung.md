@@ -1,4 +1,4 @@
-## I. Organisation
+## I. Allgemeines
 ## II. Mittelherkunft
-## III. Inkasso durch Dritte
-## IV. Mittelverwendung
+## III. Mittelverwendung
+## IV. Schlussbestimmungen
