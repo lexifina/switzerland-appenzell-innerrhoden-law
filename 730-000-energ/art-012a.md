@@ -1,2 +1,2 @@
-# Art. 12a Gebäudeenergieausweis
-1 Der Kanton führt den Gebäudeenergieausweis der Kantone (GEAK) ein.
+# Art. 12a Vollzug
+1 Der Kanton kann für den Vollzug vereinheitlichte Gebäudeausweise verlangen.
