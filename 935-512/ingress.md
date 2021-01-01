@@ -1,5 +1,5 @@
-# Standeskommissionsbeschluss über die Verwendung und Verteilung der Sport-Toto-Gewinnanteile
+# Standeskommissionsbeschluss über den Sportfonds
 vom 26.11.1985
 Die Standeskommission des Kantons Appenzell I. Rh.,
-gestützt auf Art. 30 Abs. 5 der Kantonsverfassung vom 24. Wintermonat 1872,
+gestützt auf Art. 11 des Einführungsgesetzes zum Geldspielgesetz vom 23. August 2020,
 beschliesst:
