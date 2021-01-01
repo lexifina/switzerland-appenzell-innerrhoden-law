@@ -13,7 +13,7 @@
 ### III.E. Zeitliche Bemessung
 ## IV. Quellensteuern für natürliche und juristische Personen
 ### IV.A. Natürliche Personen mit steuerrechtlichem Wohnsitz oder Aufenthalt im Kanton
-### IV.B. Natürliche und juristische Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz
+### IV.B. Natürliche Personen ohne steuerrechtlichen Wohnsitz oder Aufenthalt in der Schweiz sowie juristische Personen ohne Sitz oder tatsächliche Verwaltung in der Schweiz
 ### IV.Bbis. Natürliche Personen mit kleinen Arbeitsentgelten aus unselbständiger Erwerbstätigkeit
 ### IV.C. Gemeinsame Bestimmungen
 ## V. Erbschafts- und Schenkungssteuern
@@ -38,4 +38,5 @@
 ### XII.B. Übergangsbestimmungen
 ### XII.C. Übergangsbestimmung der Revision vom 30. April 2006
 ### XII.Cbis. Übergangsbestimmung der Revision vom 25. April 2010
+## XII.Cter. Übergangsbestimmung der Revision vom 26. April 2020
 ### XII.D. Inkrafttreten

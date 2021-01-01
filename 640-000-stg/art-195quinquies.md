@@ -1,0 +1,4 @@
+# Art. 195quinquies Sondersatz
+1 Wurden juristische Personen vor dem Inkrafttreten dieser Revision nach Art. 69 oder Art. 70 dieses Gesetzes besteuert oder lag eine Betriebsstätte nach Art. 54 Abs. 1 Satz 2 dieses Gesetzes vor, so werden die am 1. Januar 2020 bestehenden stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts, soweit diese bisher nicht steuerbar gewesen wären, im Falle ihrer Realisation innert den nächsten fünf Jahren zu einem Satz von 2 Prozent gesondert besteuert.
+2 Die Höhe der am 1. Januar 2020 von der juristischen Person geltend gemachten stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts ist von der Veranlagungsbehörde mittels Verfügung festzusetzen.
+3 Abschreibungen auf stillen Reserven einschliesslich des selbst geschaffenen Mehrwerts, die bei Ende der Besteuerung nach Art. 69 oder Art. 70 dieses Gesetzes aufgedeckt wurden, werden in die Berechnung nach Art. 65ter dieses Gesetzes einbezogen.
