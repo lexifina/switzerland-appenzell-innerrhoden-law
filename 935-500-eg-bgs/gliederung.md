@@ -1,6 +1,5 @@
 ## I. Allgemeine Bestimmungen
-## II. Tombola bei Unterhaltungsanlässen
-## III. Lotterien zu gemeinnützigen und wohltätigen Zwecken
-## IV. Verteilung der Mittel
-## V. Gebühren und Strafbestimmung
-## VI. Schlussbestimmungen
+## II. Unterhaltungslotterien
+## III. Bekämpfung der Gefahren des exzessiven Geldspiels
+## IV. Verwendung der Reingewinne von Grossspielen
+## V. Schlussbestimmungen
