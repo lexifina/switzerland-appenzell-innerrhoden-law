@@ -8,10 +8,11 @@
 ### I.G. Auflösung des Arbeitsverhältnisses
 ### I.H. Annahme von Geld, geldwerten Leistungen und Geschenken
 ## II. Stellenbeschreibungen
-## III. Funktionsbewertung
+## III. Funktionsstufen
 ## IV. Lohn
-### IV.A. Lohnsystem
-### IV.B. Lohnfestsetzung
+### IV.A. Lohnfestlegung
+### IV.B. …
+### IV. B. Lohnerhöhungen
 ### IV.C. Lohnauszahlung
 ### IV.D. Lohnzuschläge und Rückzahlung
 ### IV.E. Treueprämie
