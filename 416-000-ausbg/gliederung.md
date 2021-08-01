@@ -1,6 +1,10 @@
-## I. Sicherung des Zugangs zu ausserkantonalen Ausbildungseinrichtungen
-## II. Stipendien und Studiendarlehen
-## III. Schulgelder
-## IV. Gemeinsame Bestimmungen
-## V. Weitere Bestimmungen
-## VI. Schlussbestimmungen
+## I. Allgemeine Bestimmungen
+## II. Beitragsberechtigung
+## III. Stipendienrechtlicher Wohnsitz
+## IV. Ausbildungen
+## V. Form und Dauer der Ausbildungsbeiträge
+## VI. Finanzieller Bedarf und Beitragshöhe
+## VII. Rückerstattung
+## VIII. Verfahren
+## IX. Erwachsenenbildung
+## X. Schluss- und Übergangsbestimmungen
