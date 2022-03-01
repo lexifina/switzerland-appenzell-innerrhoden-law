@@ -1,4 +1,4 @@
-# Standeskommissionsbeschluss über die Fischerei 2021
+# Standeskommissionsbeschluss über die Fischerei
 (StKB Fischerei)
 vom 04.02.2020
 Die Standeskommission des Kantons Appenzell I.Rh.,
