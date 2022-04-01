@@ -1,5 +1,5 @@
 ## I. Anstellung und Auflösung des Arbeitsverhältnisses
-### I.A. Anstellungsbehörde
+### I.A. Allgemeines
 ### I.B. Stellenausschreibung
 ### I.C. Anstellung
 ### I.D. Wohnsitzpflicht
