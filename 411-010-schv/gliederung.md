@@ -2,6 +2,7 @@
 ## II. Rechtsstellung der Schüler
 ## III. Rechtsstellung der Lehrkräfte
 ## IV. Schulbetrieb
+### IVbis Schulergänzende Betreuungsangebote
 ## V. Subventionierung der baulichen Aufwendungen
 ## VI. Übrige Beiträge
 ## VII. Behörden
