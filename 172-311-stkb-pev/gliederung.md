@@ -25,4 +25,5 @@
 ### VIII.A. Arbeitszeit
 ### VIII.B. Überstunden und Zeitguthaben
 ## IX. Sitzungsgelder und Spesen
+## IXa. Besondere Regelungen für Lehrpersonen Integration
 ## X. Schlussbestimmungen
