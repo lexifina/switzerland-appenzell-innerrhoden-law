@@ -1,0 +1,3 @@
+# Art. 21quinquies Übermittlung und Übermittlungsquittung
+1 Nach erfolgreicher Übermittlung der Steuererklärung erhalten die Steuerpflichtigen auf elektronischem Weg umgehend eine Meldung über den Eingang und eine Übermittlungsquittung. Die Meldung und die Quittung sind zu kontrollieren.
+2 Ist die Übermittlung fehlgeschlagen und danach die Einreichungsfrist abgelaufen, gilt die Frist auch dann noch als gewahrt, wenn die Steuererklärung innert zehn Arbeitstagen nach dem fristgerechten Übermittlungsversuch mit dem amtlichen Steuererklärungsformular physisch nachgereicht wird. Der Ausdruck aus der webbasierten Steuerdeklarationslösung gilt nicht als amtliches Steuererklärungsformular.
