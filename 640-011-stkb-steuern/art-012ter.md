@@ -5,4 +5,4 @@ Ein- und Zweifamilienhäuser, Stockwerkeigentum usw. 45% 35%
 Mehrfamilienhäuser 30% 25%
 Wohn- und Geschäftshäuser, Gewerbebauten usw. 20% 20%
 2 Für Grundstücke, die dem bäuerlichen Bodenrecht unterstellt sind und alle übrigen Grundstücke gilt die amtliche Verkehrswertschätzung unverändert.
-3 Der für die jeweilige Steuerperiode anwendbare Steuerwert wird den Liegenschaftseigentümern mittels Liegenschaftsblatt jährlich im Rahmen des Steuererklärungsversands mitgeteilt.
+3 …
