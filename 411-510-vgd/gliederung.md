@@ -1,3 +1,7 @@
-## I. Schulärztlicher Dienst
-## II. Schulzahnärztlicher Dienst
-## III. Schlussbestimmung
+## A. Allgemeine Bestimmungen
+## B. Schulärztlicher Dienst
+### I. Allgemeines
+### II. Allgemeinmedizinische Vorsorgeuntersuchungen
+### III. Spezialisierte Augenuntersuchung
+## C. Schulzahnärztlicher Dienst
+## D. Schlussbestimmungen
