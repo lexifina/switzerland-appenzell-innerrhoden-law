@@ -1,5 +1,2 @@
-# Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über die Ostschweizer BVG- und Stiftungsaufsicht
-vom 26.02.2007
-Der Grosse Rat des Kantons Appenzell I.Rh.,
-gestützt auf Art. 27 Abs. 3 der Kantonsverfassung vom 24. Wintermonat 1872,
-beschliesst:
+# Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Tessin (IVBSA)
+vom 21.10.2024
