@@ -1,4 +1,4 @@
 ## I. Allgemeines und Zulassung
-## II. Abschussplan und Zuteilung der Abschüsse
-## III. Vorschriften für die Steinwildjagd
+## II. Regulierung von Steinböcken
+## III. Vorschriften für die Regulierung von Steinböcken
 ## IV. Schlusstitel
