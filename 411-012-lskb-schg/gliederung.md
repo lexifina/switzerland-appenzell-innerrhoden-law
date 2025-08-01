@@ -40,3 +40,6 @@
 ## K. Schlussbestimmung
 ## A1. Anhang 1: Schulische Betreuung mit nicht pädagogisch ausgebildeten Personen (Klassenassistenzen)
 ## A2. …
+## A3. Anhang 3: Neuausrichtung Zyklus 1
+### A3-I Schulorganisation
+### A3.II Finanzen
