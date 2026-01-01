@@ -1,6 +1,6 @@
 ## I. Allgemeine Bestimmungen
 ## II. Organisation
-## III. Finanzhaushalt
+## III. Finanzen
 ## IV. Streiterledigung
-## V. Kündigung und Auflösung der Vereinbarung
-## VI. Schlussbestimmungen
+## V. Austritt aus und Auflösung der Vereinbarung
+## VI. Übergangs- und Schlussbestimmungen
