@@ -1,0 +1,2 @@
+# Art. 73c Übergangsbestimmungen zur Revision des Standeskommissionsbeschlusses zur Personalverordnung vom 4. November 2025
+1 Besteht im Zeitpunkt des Inkrafttretens der Revision des Standeskommissionsbeschlusses zur Personalverordnung eine Rückzahlungspflicht für Leistungen und Kosten aus einer Aus- und Weiterbildung, die insgesamt weniger als Fr. 4'000.-- ausmachen, entfällt die Rückzahlungspflicht für die noch nicht zurückbezahlten Kosten.

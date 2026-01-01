@@ -14,7 +14,7 @@
 ### IV.B. …
 ### IV. B. Lohnerhöhungen
 ### IV.C. Lohnauszahlung
-### IV.D. Lohnzulagen und -rückzahlung
+### IV.D. Lohnzulagen
 ### IV.E. Treueprämie
 ## V. Mitarbeitergespräche
 ## VI. Aus- und Weiterbildung
