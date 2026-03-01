@@ -6,3 +6,4 @@ c) Disziplinarverfügungen;
 d) Notizen über Verhaltensauffälligkeiten;
 e) Dokumentationen über Elternkontakte;
 f) Mitteilungen im Sinne von Art. 16a Abs. 2 Schulgesetz.
+B.V. Förderung sportlich oder musisch besonders begabter Schüler

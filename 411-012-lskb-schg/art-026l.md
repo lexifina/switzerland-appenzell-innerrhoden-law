@@ -1,1 +1,3 @@
 # Art. 26l …
+C. Aus- und Weiterbildung der Lehrpersonen
+C.I. Allgemeine Bestimmungen
