@@ -1,0 +1,11 @@
+{
+  "path": "ch-ai",
+  "code": "CH-AI",
+  "name": "Appenzell Innerrhoden",
+  "level": "canton",
+  "parent": "ch",
+  "repo": "https://github.com/lexifina/switzerland-appenzell-innerrhoden-law",
+  "build": "built: constitution, cantonal laws and Verordnungen (183 acts, 302 versions) from the GS",
+  "language": "de",
+  "sources": 1
+}
