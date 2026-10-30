@@ -197,20 +197,120 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `942-010` | Verordnung über die Bekanntgabe von Preisen | 2 | 2014-12-01 to 2021-01-01 |
 | `944-010-ev-kkg` | Einführungsverordnung zum Bundesgesetz über den Konsumkredit | 1 | 2006-10-23 to 2006-10-23 |
 | `963-110-feuerschutzverordnung-fsv` | Verordnung zum Gesetz über den Feuerschutz | 1 | 2013-01-01 to 2013-01-01 |
+| `132-100` | Grossratsbeschluss über die Landesteile | 2 | 2014-12-01 to 2022-05-01 |
+| `141-000` | Landsgemeindebeschluss über die Erteilung des Bürgerrechtes | 1 | 2015-04-26 to 2015-04-26 |
+| `142-001` | Standeskommissionsbeschluss über Niederlassung und Aufenthalt der Schweizerbürger | 1 | 2014-09-16 to 2014-09-16 |
+| `142-211` | Standeskommissionsbeschluss über die Betreuung schutzsuchender Ausländer in ausserordentlichen Lagen | 1 | 2014-09-19 to 2014-09-19 |
+| `144-010` | Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands | 1 | 2009-04-01 to 2009-04-01 |
+| `144-011` | Grossratsbeschluss betreffend Beitritt zur Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands | 1 | 2009-02-18 to 2009-02-18 |
+| `160-011` | Standeskommissionsbeschluss über die Beitragsleistung an die Kosten der Bezirke für die eidgenössischen Abstimmungen | 1 | 2003-07-01 to 2003-07-01 |
+| `160-411` | Standeskommissionsbeschluss über die Sicherung des ungestörten Ablaufs der Landsgemeinde | 1 | 2006-08-14 to 2006-08-14 |
+| `170-011` | Standeskommissionsbeschluss über die Entschädigung von Behördenmitgliedern | 2 | 2016-01-01 to 2020-10-01 |
+| `172-111-stkb-dep` | Standeskommissionsbeschluss über die Departemente, Amtsstellen und Kommissionen | 10 | 2018-01-01 to 2026-01-01 |
+| `172-114` | Register der Unterschriftsberechtigungen | 2 | 2025-05-01 to 2026-01-01 |
+| `172-121-stkb-aad` | Standeskommissionsbeschluss über die Aufbewahrung und Archivierung von Daten | 1 | 2026-01-01 to 2026-01-01 |
+| `172-311-stkb-pev` | Standeskommissionsbeschluss zur Personalverordnung | 9 | 2018-01-01 to 2026-01-01 |
+| `172-313` | Standeskommissionsbeschluss über die Kündigungsfrist für Lehrkräfte am Gymnasium | 1 | 2017-01-01 to 2017-01-01 |
+| `172-315` | Standeskommissionsbeschluss über die Informatiknutzung | 3 | 2017-01-01 to 2027-01-01 |
+| `172-401-gruppenversicherung` | Standeskommissionsbeschluss über die Versicherung der Angestellten | 1 | 2014-09-16 to 2014-09-16 |
+| `172-411` | Standeskommissionsbeschluss über die Kantonale Versicherungskasse | 2 | 2014-01-01 to 2020-01-01 |
+| `172-412` | Standeskommissionsbeschluss über die Wahlen der Arbeitgebervertreter in die Verwaltungskommission der Kantonalen Versicherungskasse | 2 | 2015-01-01 to 2024-09-01 |
+| `172-512` | Standeskommissionsbeschluss über die Entschädigung von Beiständen | 1 | 2013-09-03 to 2013-09-03 |
+| `172-513-gebt` | Gebührentarif | 7 | 2020-01-01 to 2027-01-01 |
+| `173-700` | Konkordat über die Schiedsgerichtsbarkeit | 1 | 1981-04-26 to 1981-04-26 |
+| `173-710` | Grossratsbeschluss betreffend den Beitritt zum Konkordat über die Schiedsgerichtsbarkeit | 1 | 2014-12-01 to 2014-12-01 |
+| `177-101` | Geschäftsordnung der Anwaltskammer | 1 | 2003-06-11 to 2003-06-11 |
+| `180-101` | Konkordat über die Pastoration und Besteuerung von in Appenzell A.Rh. wohnhaften Katholiken | 1 | 1968-03-21 to 1968-03-21 |
+| `180-201` | Konkordat zwischen dem Kanton Appenzell I.Rh. und dem Katholischen Konfessionsteil des Kantons St.Gallen über die staatskirchenrechtliche Stellung von in Oberegg wohnhaften Angehörigen katholischer Pfarreien im Kanton St.Gallen | 1 | 2013-03-25 to 2013-03-25 |
+| `180-301` | Vertrag über das Verhältnis von Innerrhoder Evangelisch-Reformierten zur Evangelisch-reformierten Landeskirche beider Appenzell und zu Ausserrhoder Kirchgemeinden | 1 | 2017-01-01 to 2017-01-01 |
+| `180-302` | Vertrag über die staatskirchenrechtliche Stellung von in Oberegg wohnhaften Angehörigen der Evangelischen Kirchgemeinde Altstätten | 1 | 2017-01-01 to 2017-01-01 |
+| `211-010` | Grossratsbeschluss über die Beschränkung der Taxen für den Einkauf in Korporationen | 1 | 2014-12-01 to 2014-12-01 |
+| `211-210-apv` | Adoptions- und Pflegekinderverordnung | 1 | 2014-12-01 to 2014-12-01 |
+| `211-410` | Grossratsbeschluss betreffend Erläuterung des Zeddelgesetzes | 1 | 2014-12-01 to 2014-12-01 |
+| `211-451` | Standeskommissionsbeschluss über die Schätzung von Grundstücken | 2 | 2014-03-11 to 2021-11-01 |
+| `211-601` | Standeskommissionsbeschluss über die Gebühren für Geodaten und Geodienste | 2 | 2011-07-01 to 2019-09-01 |
+| `211-621-stkb-grundbuchdaten` | Standeskommissionsbeschluss über den Zugriff auf Grundbuchdaten | 3 | 2022-01-01 to 2024-06-01 |
+| `211-701-stkb-stiftungsaufsicht` | Standeskommissionsbeschluss über die Stiftungsaufsicht | 2 | 2014-09-16 to 2021-09-01 |
+| `211-910-ivbsa` | Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Tessin | 2 | 2007-02-26 to 2026-01-01 |
+| `211-911` | Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Tessin (IVBSA) | 2 | 2014-12-01 to 2024-10-21 |
+| `211-920` | Übereinkommen zwischen den Regierungen der Kantone Appenzell A. Rh. und Appenzell I. Rh. betreffend die Beurkundung und die grundbuchliche Behandlung von Rechtsgeschäften über dingliche Rechte an Grundstücken, die in beiden Kantonen liegen | 1 | 1941-03-24 to 1941-03-24 |
+| `221-210` | Grossratsbeschluss über kantonale Zusatzbestimmungen betreffend Viehwährschaft | 1 | 2014-12-01 to 2014-12-01 |
+| `270-000-eg-zpo` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung | 3 | 2013-01-01 to 2021-06-01 |
+| `312-000-eg-stpo` | Einführungsgesetz zur Schweizerischen Strafprozessordnung | 3 | 2015-04-26 to 2021-06-01 |
+| `314-000-eg-jstpo` | Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung | 3 | 2011-01-01 to 2021-06-01 |
+| `322-001` | Standeskommissionsbeschluss über die Zuständigkeit im militärischen Disziplinarstrafrecht | 1 | 2014-09-16 to 2014-09-16 |
+| `330-001` | Standeskommissionsbeschluss über das Strafregister und die Strafkontrolle | 1 | 1997-01-01 to 1997-01-01 |
+| `340-001` | Standeskommissionsbeschluss über das Kantonsgefängnis | 1 | 2014-09-16 to 2014-09-16 |
+| `340-002` | Standeskommissionsbeschluss über den tageweisen Strafvollzug und die Halbgefangenschaft | 1 | 2014-09-16 to 2014-09-16 |
+| `340-003` | Standeskommissionsbeschluss über die gemeinnützige Arbeit im Strafvollzug | 1 | 2014-09-16 to 2014-09-16 |
+| `340-910` | Konkordat über die Kosten des Strafvollzugs | 1 | 1948-02-11 to 1948-02-11 |
+| `340-911` | Grossratsbeschluss über den Beitritt zum Konkordat über die Kosten des Strafvollzugs | 1 | 2014-12-01 to 2014-12-01 |
+| `340-920` | Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen | 1 | 2007-01-01 to 2007-01-01 |
+| `340-921` | Grossratsbeschluss über den Beitritt zum Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen | 1 | 2014-12-01 to 2014-12-01 |
+| `410-610` | Grossratsbeschluss betreffend Leistung von Beiträgen an die familienexterne Kinderbetreuung | 1 | 2010-01-01 to 2010-01-01 |
+| `410-611` | Standeskommissionsbeschluss über die Leistung von Beiträgen an die familienexterne Kinderbetreuung | 2 | 2018-08-01 to 2022-01-01 |
+| `411-011-stkb-schg` | Standeskommissionsbeschluss zum Schulgesetz | 14 | 2017-06-14 to 2026-08-01 |
+| `411-012-lskb-schg` | Landesschulkommissionsbeschluss zum Schulgesetz | 9 | 2017-08-01 to 2026-03-01 |
+| `411-015-stkb-schulerganzende-betreuung` | Standeskommissionsbeschluss über die schulergänzende Betreuung | 1 | 2022-08-01 to 2022-08-01 |
+| `411-511` | Standeskommissionsbeschluss über Beiträge an die Kosten der Zahnbehandlung der Schulkinder | 1 | 2004-08-16 to 2004-08-16 |
+| `411-910` | Konkordat über die Schulkoordination | 1 | 1970-12-07 to 1970-12-07 |
+| `411-911` | Grossratsbeschluss über den Beitritt zum Konkordat über die Schulkoordination | 1 | 2014-12-01 to 2014-12-01 |
+| `412-011` | Standeskommissionsbeschluss zur Gymnasialverordnung | 11 | 2018-01-01 to 2026-01-01 |
+| `412-012` | Landesschulkommissionsbeschluss zur Gymnasialverordnung | 3 | 2017-02-01 to 2023-08-01 |
+| `412-901-regionales-schulabkommen` | Vereinbarung über die Leistung von Schulbeiträgen für Auszubildende an Schulen der Sekundarstufe II | 1 | 2001-08-01 to 2001-08-01 |
+| `412-910` | Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte | 1 | 2018-12-03 to 2018-12-03 |
+| `412-911-hbv` | Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte | 1 | 2018-12-03 to 2018-12-03 |
+| `413-011` | Standeskommissionsbeschluss betreffend Brückenangebote | 4 | 2014-09-16 to 2026-10-01 |
+| `413-012` | Standeskommissionsbeschluss über den Fonds für die Appenzeller Lehre | 1 | 2022-02-01 to 2022-02-01 |
+| `413-910-fsv` | Interkantonale Fachschulvereinbarung | 1 | 2000-08-01 to 2000-08-01 |
+| `413-911` | Grossratsbeschluss betreffend den Beitritt zur interkantonalen Fachschulvereinbarung | 1 | 2014-12-01 to 2014-12-01 |
+| `413-920-hfsv` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2014-01-01 to 2014-01-01 |
+| `413-921-hfsv` | Grossratsbeschluss für den Beitritt zur Interkantonalen Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen | 1 | 2014-03-31 to 2014-03-31 |
+| `414-910` | Interkantonale Fachhochschulvereinbarung (FHV) ab 2005 | 1 | 2005-10-01 to 2005-10-01 |
+| `414-911` | Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Fachhochschulvereinbarung (FHV) | 1 | 2014-12-01 to 2014-12-01 |
+| `414-920` | Vereinbarung über die Interkantonale Fachhochschule St.Gallen | 1 | 2000-01-01 to 2000-01-01 |
+| `414-921` | Standeskommissionsbeschluss betreffend den Beitritt zur Vereinbarung über die Fachhochschule St.Gallen | 1 | 2014-09-16 to 2014-09-16 |
+| `414-930-interkantonale-universitatsvereinbarung-iuv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen | 2 | 1999-01-01 to 2022-01-01 |
+| `414-931` | Grossratsbeschluss über den Beitritt zur Interkantonalen Universitätsvereinbarung | 2 | 2006-10-23 to 2022-01-01 |
+| `414-940-hochschulkonkordat` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-01-01 to 2015-01-01 |
+| `414-941` | Grossratsbeschluss für den Beitritt zur Interkantonalen Vereinbarung über den schweizerischen Hochschulbereich | 1 | 2015-06-22 to 2015-06-22 |
+| `414-960` | Vereinbarung über die Ost - Ostschweizer Fachhochschule | 1 | 2019-06-24 to 2019-06-24 |
+| `414-961` | Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung über die Ost - Ostschweizer Fachhochschule | 1 | 2019-06-24 to 2019-06-24 |
+| `415-011-stkb-sportv` | Standeskommissionsbeschluss zur Sportverordnung | 2 | 2014-09-16 to 2021-01-01 |
+| `416-011-stkb-ausbg` | Standeskommissionsbeschluss über Ausbildungsbeiträge | 3 | 2017-05-01 to 2021-08-01 |
+| `416-910-berufsfachschulvereinbarung-bfsv` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung | 1 | 2007-08-01 to 2007-08-01 |
+| `416-911-bfsv` | Grossratsbeschluss betreffend Genehmigung der Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung | 1 | 2006-11-20 to 2006-11-20 |
+| `418-910` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 2 | 2005-11-21 to 2017-01-01 |
+| `418-911` | Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen | 1 | 2014-12-01 to 2014-12-01 |
+| `419-211` | Standeskommissionsbeschluss über die Förderung von Freizeitangeboten für Kinder und Jugendliche | 1 | 2011-04-12 to 2011-04-12 |
+| `433-001` | Standeskommissionsbeschluss über die Ablieferung von Publikationen an die Kantonsbibliothek | 1 | 2003-07-01 to 2003-07-01 |
+| `442-001-stkb-pro-i-rh` | Standeskommissionsbeschluss über die Verwaltung der Stiftung Pro Innerrhoden | 2 | 2013-06-01 to 2025-01-01 |
+| `442-101` | Standeskommissionsbeschluss über die Verwaltung der Innerrhoder Kunststiftung | 1 | 2006-08-14 to 2006-08-14 |
+| `446-001` | Standeskommissionsbeschluss über die Herausgabe einer Reihe «Innerrhoder Schriften» | 1 | 2006-08-14 to 2006-08-14 |
+| `446-002` | Standeskommissionsbeschluss über den Fonds für kulturelle Zwecke | 1 | 2006-08-14 to 2006-08-14 |
+| `446-900` | Landsgemeindebeschluss betreffend Beitritt des Kantons Appenzell I.Rh. zur Vereinbarung über die interkantonale Zusammenarbeit und den Lastenausgleich im Bereich der Kultureinrichtungen von überregionaler Bedeutung | 1 | 2011-05-01 to 2011-05-01 |
+| `446-910` | Vereinbarung über die interkantonale Zusammenarbeit und den Lastenausgleich im Bereich der Kultureinrichtungen von überregionaler Bedeutung | 1 | 2011-01-01 to 2011-01-01 |
+| `450-011-stkb-denkmalpflege` | Standeskommissionsbeschluss über die Denkmalpflege | 2 | 2014-09-16 to 2023-05-01 |
+| `450-012` | Standeskommissionsbeschluss über die Errichtung von Pflanzenschutzgebieten | 1 | 2006-08-14 to 2006-08-14 |
+| `450-013` | Standeskommissionsbeschluss über den Fonds für Naturschutz | 1 | 2014-01-28 to 2014-01-28 |
+| `450-014` | Standeskommissionsbeschluss über die Naturschutzbeiträge | 2 | 2018-01-02 to 2020-07-01 |
+| `454-001` | Standeskommissionsbeschluss über die Moorlandschaften Schwägalp und Fähnerenspitz | 1 | 2017-05-09 to 2017-05-09 |
+| `501-001` | Standeskommissionsbeschluss über die Organisation in ausserordentlichen Lagen | 1 | 2007-01-09 to 2007-01-09 |
+| `550-011` | Standeskommissionsbeschluss über das Dienstreglement der Kantonspolizei | 1 | 2012-04-10 to 2012-04-10 |
 
-The build made 272 commits:
+The build made 455 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 183 | first version of an act |
-| 89 | one law on its in-force day |
+| 283 | first version of an act |
+| 172 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 1 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 288 laws in the record.
-- 425 tags.
+- 3 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 540 laws in the record.
+- 730 tags.
 
 ## Dates
 
@@ -222,13 +322,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `73672e3342857aa1a730ab57c1ecaa12f5bdef891cd850c4c1da66c1674e7422` (3048248 bytes).
+- Corpus: sha256 `f1467b878f44b8e48e78ccf2407d076508a242450c7d28d7a34eff9a9570ba8e` (4435421 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-302 versions of 183 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 

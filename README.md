@@ -224,3 +224,112 @@ The author of a commit is the amending act, named by its entry in the chronologi
 ## Limits
 
 This is not an official publication. The binding text is the one the canton publishes as binding (its chronological collection, or its systematic collection where cantonal law makes that binding). The history starts with the oldest consolidated version the collection holds for each act, which for many acts is later than the act's enactment. Only the acts listed above are included.
+
+<!-- lexwork-runner:start -->
+## Further acts in force
+
+100 further acts with 189 versions from the same collection, in the parts `86-lexwork-NN`: the acts in force that the parts above did not hold (decrees, decisions, agreements, tariffs, rules of procedure and the rest of the systematic collection), each with every consolidated version the collection gives, dated and credited the same way. Acts published only as PDF, land-use plans, concessions, internal directives and repealed acts are not included. The counts earlier in this file cover the earlier parts only.
+
+| Folder | Act | Versions | History |
+| --- | --- | ---: | --- |
+| `132-100/` | Grossratsbeschluss über die Landesteile (GS 132.100) | 2 | oldest version available, then each consolidated version: 1 December 2014 to 1 May 2022 |
+| `141-000/` | Landsgemeindebeschluss über die Erteilung des Bürgerrechtes (GS 141.000) | 1 | one version (the oldest available), 26 April 2015 |
+| `142-001/` | Standeskommissionsbeschluss über Niederlassung und Aufenthalt der Schweizerbürger (GS 142.001) | 1 | one version (the oldest available), 16 September 2014 |
+| `142-211/` | Standeskommissionsbeschluss über die Betreuung schutzsuchender Ausländer in ausserordentlichen Lagen (GS 142.211) | 1 | one version (the oldest available), 19 September 2014 |
+| `144-010/` | Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands (GS 144.010) | 1 | as enacted, 1 April 2009 |
+| `144-011/` | Grossratsbeschluss betreffend Beitritt zur Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands (GS 144.011) | 1 | as enacted, 18 February 2009 |
+| `160-011/` | Standeskommissionsbeschluss über die Beitragsleistung an die Kosten der Bezirke für die eidgenössischen Abstimmungen (GS 160.011) | 1 | one version (the oldest available), 1 July 2003 |
+| `160-411/` | Standeskommissionsbeschluss über die Sicherung des ungestörten Ablaufs der Landsgemeinde (GS 160.411) | 1 | as enacted, 14 August 2006 |
+| `170-011/` | Standeskommissionsbeschluss über die Entschädigung von Behördenmitgliedern (GS 170.011) | 2 | oldest version available, then each consolidated version: 1 January 2016 to 1 October 2020 |
+| `172-111-stkb-dep/` | Standeskommissionsbeschluss über die Departemente, Amtsstellen und Kommissionen (GS 172.111) | 10 | oldest version available, then each consolidated version: 1 January 2018 to 1 January 2026 |
+| `172-114/` | Register der Unterschriftsberechtigungen (GS 172.114) | 2 | as enacted, then each consolidated version: 1 May 2025 to 1 January 2026 |
+| `172-121-stkb-aad/` | Standeskommissionsbeschluss über die Aufbewahrung und Archivierung von Daten (GS 172.121) | 1 | as enacted, 1 January 2026 |
+| `172-311-stkb-pev/` | Standeskommissionsbeschluss zur Personalverordnung (GS 172.311) | 9 | oldest version available, then each consolidated version: 1 January 2018 to 1 January 2026 |
+| `172-313/` | Standeskommissionsbeschluss über die Kündigungsfrist für Lehrkräfte am Gymnasium (GS 172.313) | 1 | one version (the oldest available), 1 January 2017 |
+| `172-315/` | Standeskommissionsbeschluss über die Informatiknutzung (GS 172.315) | 3 | oldest version available, then each consolidated version: 1 January 2017 to 1 January 2027 |
+| `172-401-gruppenversicherung/` | Standeskommissionsbeschluss über die Versicherung der Angestellten (GS 172.401) | 1 | one version (the oldest available), 16 September 2014 |
+| `172-411/` | Standeskommissionsbeschluss über die Kantonale Versicherungskasse (GS 172.411) | 2 | as enacted, then each consolidated version: 1 January 2014 to 1 January 2020 |
+| `172-412/` | Standeskommissionsbeschluss über die Wahlen der Arbeitgebervertreter in die Verwaltungskommission der Kantonalen Versicherungskasse (GS 172.412) | 2 | as enacted, then each consolidated version: 1 January 2015 to 1 September 2024 |
+| `172-512/` | Standeskommissionsbeschluss über die Entschädigung von Beiständen (GS 172.512) | 1 | as enacted, 3 September 2013 |
+| `172-513-gebt/` | Gebührentarif (GS 172.513) | 7 | as enacted, then each consolidated version: 1 January 2020 to 1 January 2027 |
+| `173-700/` | Konkordat über die Schiedsgerichtsbarkeit (GS 173.700) | 1 | as enacted, 26 April 1981 |
+| `173-710/` | Grossratsbeschluss betreffend den Beitritt zum Konkordat über die Schiedsgerichtsbarkeit (GS 173.710) | 1 | one version (the oldest available), 1 December 2014 |
+| `177-101/` | Geschäftsordnung der Anwaltskammer (GS 177.101) | 1 | as enacted, 11 June 2003 |
+| `180-101/` | Konkordat über die Pastoration und Besteuerung von in Appenzell A.Rh. wohnhaften Katholiken (GS 180.101) | 1 | as enacted, 21 March 1968 |
+| `180-201/` | Konkordat zwischen dem Kanton Appenzell I.Rh. und dem Katholischen Konfessionsteil des Kantons St.Gallen über die staatskirchenrechtliche Stellung von in Oberegg wohnhaften Angehörigen katholischer Pfarreien im Kanton St.Gallen (GS 180.201) | 1 | as enacted, 25 March 2013 |
+| `180-301/` | Vertrag über das Verhältnis von Innerrhoder Evangelisch-Reformierten zur Evangelisch-reformierten Landeskirche beider Appenzell und zu Ausserrhoder Kirchgemeinden (GS 180.301) | 1 | as enacted, 1 January 2017 |
+| `180-302/` | Vertrag über die staatskirchenrechtliche Stellung von in Oberegg wohnhaften Angehörigen der Evangelischen Kirchgemeinde Altstätten (GS 180.302) | 1 | as enacted, 1 January 2017 |
+| `211-010/` | Grossratsbeschluss über die Beschränkung der Taxen für den Einkauf in Korporationen (GS 211.010) | 1 | one version (the oldest available), 1 December 2014 |
+| `211-210-apv/` | Adoptions- und Pflegekinderverordnung (GS 211.210) | 1 | one version (the oldest available), 1 December 2014 |
+| `211-410/` | Grossratsbeschluss betreffend Erläuterung des Zeddelgesetzes (GS 211.410) | 1 | one version (the oldest available), 1 December 2014 |
+| `211-451/` | Standeskommissionsbeschluss über die Schätzung von Grundstücken (GS 211.451) | 2 | oldest version available, then each consolidated version: 11 March 2014 to 1 November 2021 |
+| `211-601/` | Standeskommissionsbeschluss über die Gebühren für Geodaten und Geodienste (GS 211.601) | 2 | as enacted, then each consolidated version: 1 July 2011 to 1 September 2019 |
+| `211-621-stkb-grundbuchdaten/` | Standeskommissionsbeschluss über den Zugriff auf Grundbuchdaten (GS 211.621) | 3 | as enacted, then each consolidated version: 1 January 2022 to 1 June 2024 |
+| `211-701-stkb-stiftungsaufsicht/` | Standeskommissionsbeschluss über die Stiftungsaufsicht (GS 211.701) | 2 | oldest version available, then each consolidated version: 16 September 2014 to 1 September 2021 |
+| `211-910-ivbsa/` | Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Tessin (GS 211.910) | 2 | as enacted, then each consolidated version: 26 February 2007 to 1 January 2026 |
+| `211-911/` | Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Tessin (IVBSA) (GS 211.911) | 2 | oldest version available, then each consolidated version: 1 December 2014 to 21 October 2024 |
+| `211-920/` | Übereinkommen zwischen den Regierungen der Kantone Appenzell A. Rh. und Appenzell I. Rh. betreffend die Beurkundung und die grundbuchliche Behandlung von Rechtsgeschäften über dingliche Rechte an Grundstücken, die in beiden Kantonen liegen (GS 211.920) | 1 | as enacted, 24 March 1941 |
+| `221-210/` | Grossratsbeschluss über kantonale Zusatzbestimmungen betreffend Viehwährschaft (GS 221.210) | 1 | one version (the oldest available), 1 December 2014 |
+| `270-000-eg-zpo/` | Einführungsgesetz zur Schweizerischen Zivilprozessordnung (GS 270.000) | 3 | oldest version available, then each consolidated version: 1 January 2013 to 1 June 2021 |
+| `312-000-eg-stpo/` | Einführungsgesetz zur Schweizerischen Strafprozessordnung (GS 312.000) | 3 | oldest version available, then each consolidated version: 26 April 2015 to 1 June 2021 |
+| `314-000-eg-jstpo/` | Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung (GS 314.000) | 3 | as enacted, then each consolidated version: 1 January 2011 to 1 June 2021 |
+| `322-001/` | Standeskommissionsbeschluss über die Zuständigkeit im militärischen Disziplinarstrafrecht (GS 322.001) | 1 | one version (the oldest available), 16 September 2014 |
+| `330-001/` | Standeskommissionsbeschluss über das Strafregister und die Strafkontrolle (GS 330.001) | 1 | one version (the oldest available), 1 January 1997 |
+| `340-001/` | Standeskommissionsbeschluss über das Kantonsgefängnis (GS 340.001) | 1 | one version (the oldest available), 16 September 2014 |
+| `340-002/` | Standeskommissionsbeschluss über den tageweisen Strafvollzug und die Halbgefangenschaft (GS 340.002) | 1 | one version (the oldest available), 16 September 2014 |
+| `340-003/` | Standeskommissionsbeschluss über die gemeinnützige Arbeit im Strafvollzug (GS 340.003) | 1 | one version (the oldest available), 16 September 2014 |
+| `340-910/` | Konkordat über die Kosten des Strafvollzugs (GS 340.910) | 1 | one version (the oldest available), 11 February 1948 |
+| `340-911/` | Grossratsbeschluss über den Beitritt zum Konkordat über die Kosten des Strafvollzugs (GS 340.911) | 1 | one version (the oldest available), 1 December 2014 |
+| `340-920/` | Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen (GS 340.920) | 1 | as enacted, 1 January 2007 |
+| `340-921/` | Grossratsbeschluss über den Beitritt zum Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen (GS 340.921) | 1 | one version (the oldest available), 1 December 2014 |
+| `410-610/` | Grossratsbeschluss betreffend Leistung von Beiträgen an die familienexterne Kinderbetreuung (GS 410.610) | 1 | one version (the oldest available), 1 January 2010 |
+| `410-611/` | Standeskommissionsbeschluss über die Leistung von Beiträgen an die familienexterne Kinderbetreuung (GS 410.611) | 2 | oldest version available, then each consolidated version: 1 August 2018 to 1 January 2022 |
+| `411-011-stkb-schg/` | Standeskommissionsbeschluss zum Schulgesetz (GS 411.011) | 14 | oldest version available, then each consolidated version: 14 June 2017 to 1 August 2026 |
+| `411-012-lskb-schg/` | Landesschulkommissionsbeschluss zum Schulgesetz (GS 411.012) | 9 | oldest version available, then each consolidated version: 1 August 2017 to 1 March 2026 |
+| `411-015-stkb-schulerganzende-betreuung/` | Standeskommissionsbeschluss über die schulergänzende Betreuung (GS 411.015) | 1 | as enacted, 1 August 2022 |
+| `411-511/` | Standeskommissionsbeschluss über Beiträge an die Kosten der Zahnbehandlung der Schulkinder (GS 411.511) | 1 | one version (the oldest available), 16 August 2004 |
+| `411-910/` | Konkordat über die Schulkoordination (GS 411.910) | 1 | as enacted, 7 December 1970 |
+| `411-911/` | Grossratsbeschluss über den Beitritt zum Konkordat über die Schulkoordination (GS 411.911) | 1 | one version (the oldest available), 1 December 2014 |
+| `412-011/` | Standeskommissionsbeschluss zur Gymnasialverordnung (GS 412.011) | 11 | as enacted, then each consolidated version: 1 January 2018 to 1 January 2026 |
+| `412-012/` | Landesschulkommissionsbeschluss zur Gymnasialverordnung (GS 412.012) | 3 | oldest version available, then each consolidated version: 1 February 2017 to 1 August 2023 |
+| `412-901-regionales-schulabkommen/` | Vereinbarung über die Leistung von Schulbeiträgen für Auszubildende an Schulen der Sekundarstufe II (GS 412.901) | 1 | as enacted, 1 August 2001 |
+| `412-910/` | Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte (GS 412.910) | 1 | as enacted, 3 December 2018 |
+| `412-911-hbv/` | Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte (GS 412.911) | 1 | as enacted, 3 December 2018 |
+| `413-011/` | Standeskommissionsbeschluss betreffend Brückenangebote (GS 413.011) | 4 | oldest version available, then each consolidated version: 16 September 2014 to 1 October 2026 |
+| `413-012/` | Standeskommissionsbeschluss über den Fonds für die Appenzeller Lehre (GS 413.012) | 1 | as enacted, 1 February 2022 |
+| `413-910-fsv/` | Interkantonale Fachschulvereinbarung (GS 413.910) | 1 | as enacted, 1 August 2000 |
+| `413-911/` | Grossratsbeschluss betreffend den Beitritt zur interkantonalen Fachschulvereinbarung (GS 413.911) | 1 | one version (the oldest available), 1 December 2014 |
+| `413-920-hfsv/` | Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (GS 413.920) | 1 | as enacted, 1 January 2014 |
+| `413-921-hfsv/` | Grossratsbeschluss für den Beitritt zur Interkantonalen Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen (GS 413.921) | 1 | as enacted, 31 March 2014 |
+| `414-910/` | Interkantonale Fachhochschulvereinbarung (FHV) ab 2005 (GS 414.910) | 1 | as enacted, 1 October 2005 |
+| `414-911/` | Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Fachhochschulvereinbarung (FHV) (GS 414.911) | 1 | one version (the oldest available), 1 December 2014 |
+| `414-920/` | Vereinbarung über die Interkantonale Fachhochschule St.Gallen (GS 414.920) | 1 | as enacted, 1 January 2000 |
+| `414-921/` | Standeskommissionsbeschluss betreffend den Beitritt zur Vereinbarung über die Fachhochschule St.Gallen (GS 414.921) | 1 | one version (the oldest available), 16 September 2014 |
+| `414-930-interkantonale-universitatsvereinbarung-iuv/` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen (GS 414.930) | 2 | as enacted, then each consolidated version: 1 January 1999 to 1 January 2022 |
+| `414-931/` | Grossratsbeschluss über den Beitritt zur Interkantonalen Universitätsvereinbarung (GS 414.931) | 2 | oldest version available, then each consolidated version: 23 October 2006 to 1 January 2022 |
+| `414-940-hochschulkonkordat/` | Interkantonale Vereinbarung über den schweizerischen Hochschulbereich (GS 414.940) | 1 | as enacted, 1 January 2015 |
+| `414-941/` | Grossratsbeschluss für den Beitritt zur Interkantonalen Vereinbarung über den schweizerischen Hochschulbereich (GS 414.941) | 1 | as enacted, 22 June 2015 |
+| `414-960/` | Vereinbarung über die Ost - Ostschweizer Fachhochschule (GS 414.960) | 1 | as enacted, 24 June 2019 |
+| `414-961/` | Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung über die Ost - Ostschweizer Fachhochschule (GS 414.961) | 1 | as enacted, 24 June 2019 |
+| `415-011-stkb-sportv/` | Standeskommissionsbeschluss zur Sportverordnung (GS 415.011) | 2 | oldest version available, then each consolidated version: 16 September 2014 to 1 January 2021 |
+| `416-011-stkb-ausbg/` | Standeskommissionsbeschluss über Ausbildungsbeiträge (GS 416.011) | 3 | oldest version available, then each consolidated version: 1 May 2017 to 1 August 2021 |
+| `416-910-berufsfachschulvereinbarung-bfsv/` | Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (GS 416.910) | 1 | as enacted, 1 August 2007 |
+| `416-911-bfsv/` | Grossratsbeschluss betreffend Genehmigung der Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung (GS 416.911) | 1 | as enacted, 20 November 2006 |
+| `418-910/` | Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (GS 418.910) | 2 | as enacted, then each consolidated version: 21 November 2005 to 1 January 2017 |
+| `418-911/` | Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen (GS 418.911) | 1 | as enacted, 1 December 2014 |
+| `419-211/` | Standeskommissionsbeschluss über die Förderung von Freizeitangeboten für Kinder und Jugendliche (GS 419.211) | 1 | as enacted, 12 April 2011 |
+| `433-001/` | Standeskommissionsbeschluss über die Ablieferung von Publikationen an die Kantonsbibliothek (GS 433.001) | 1 | one version (the oldest available), 1 July 2003 |
+| `442-001-stkb-pro-i-rh/` | Standeskommissionsbeschluss über die Verwaltung der Stiftung Pro Innerrhoden (GS 442.001) | 2 | oldest version available, then each consolidated version: 1 June 2013 to 1 January 2025 |
+| `442-101/` | Standeskommissionsbeschluss über die Verwaltung der Innerrhoder Kunststiftung (GS 442.101) | 1 | one version (the oldest available), 14 August 2006 |
+| `446-001/` | Standeskommissionsbeschluss über die Herausgabe einer Reihe «Innerrhoder Schriften» (GS 446.001) | 1 | one version (the oldest available), 14 August 2006 |
+| `446-002/` | Standeskommissionsbeschluss über den Fonds für kulturelle Zwecke (GS 446.002) | 1 | one version (the oldest available), 14 August 2006 |
+| `446-900/` | Landsgemeindebeschluss betreffend Beitritt des Kantons Appenzell I.Rh. zur Vereinbarung über die interkantonale Zusammenarbeit und den Lastenausgleich im Bereich der Kultureinrichtungen von überregionaler Bedeutung (GS 446.900) | 1 | as enacted, 1 May 2011 |
+| `446-910/` | Vereinbarung über die interkantonale Zusammenarbeit und den Lastenausgleich im Bereich der Kultureinrichtungen von überregionaler Bedeutung (GS 446.910) | 1 | as enacted, 1 January 2011 |
+| `450-011-stkb-denkmalpflege/` | Standeskommissionsbeschluss über die Denkmalpflege (GS 450.011) | 2 | oldest version available, then each consolidated version: 16 September 2014 to 1 May 2023 |
+| `450-012/` | Standeskommissionsbeschluss über die Errichtung von Pflanzenschutzgebieten (GS 450.012) | 1 | as enacted, 14 August 2006 |
+| `450-013/` | Standeskommissionsbeschluss über den Fonds für Naturschutz (GS 450.013) | 1 | as enacted, 28 January 2014 |
+| `450-014/` | Standeskommissionsbeschluss über die Naturschutzbeiträge (GS 450.014) | 2 | oldest version available, then each consolidated version: 2 January 2018 to 1 July 2020 |
+| `454-001/` | Standeskommissionsbeschluss über die Moorlandschaften Schwägalp und Fähnerenspitz (GS 454.001) | 1 | one version (the oldest available), 9 May 2017 |
+| `501-001/` | Standeskommissionsbeschluss über die Organisation in ausserordentlichen Lagen (GS 501.001) | 1 | one version (the oldest available), 9 January 2007 |
+| `550-011/` | Standeskommissionsbeschluss über das Dienstreglement der Kantonspolizei (GS 550.011) | 1 | one version (the oldest available), 10 April 2012 |
+<!-- lexwork-runner:end -->

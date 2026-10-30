@@ -3276,6 +3276,1940 @@
      "sha256": "97091d69ee0195f764241096d0b62d8dfc9ff4fe090b786c4b8b41fbf6869b03"
     }
    ]
+  },
+  {
+   "slug": "132-100",
+   "short": "GS 132.100",
+   "title": "Grossratsbeschluss über die Landesteile",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/132.100",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 3,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/132.100/versions/1080",
+     "sha256": "06ab9aeb9f286ebded2e1c80480b8151cc3386955411c5c15dc25b1452988983"
+    },
+    {
+     "from": "2022-05-01",
+     "units": 3,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/132.100",
+     "sha256": "aa28a5a7e7c6a17afd744ddaec15a6ddafe598f2d7763ceed208feed4c570d8a"
+    }
+   ]
+  },
+  {
+   "slug": "141-000",
+   "short": "GS 141.000",
+   "title": "Landsgemeindebeschluss über die Erteilung des Bürgerrechtes",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/141.000",
+   "versions": [
+    {
+     "from": "2015-04-26",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/141.000",
+     "sha256": "e3948ee8b022d6f874bbb52384c4a9464c1fc65f420ce329cb4f355fe9175287"
+    }
+   ]
+  },
+  {
+   "slug": "142-001",
+   "short": "GS 142.001",
+   "title": "Standeskommissionsbeschluss über Niederlassung und Aufenthalt der Schweizerbürger",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/142.001",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 16,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/142.001",
+     "sha256": "6ab4333d262ae2c37097ce9d37c940508fbd47bac311d45aef0d30b4d62747ca"
+    }
+   ]
+  },
+  {
+   "slug": "142-211",
+   "short": "GS 142.211",
+   "title": "Standeskommissionsbeschluss über die Betreuung schutzsuchender Ausländer in ausserordentlichen Lagen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/142.211",
+   "versions": [
+    {
+     "from": "2014-09-19",
+     "units": 9,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/142.211",
+     "sha256": "895b74ae8af0b39725d54bb133b00dea63f18492b08a7e8809d2f0c1a4c4686f"
+    }
+   ]
+  },
+  {
+   "slug": "144-010",
+   "short": "GS 144.010",
+   "title": "Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/144.010",
+   "versions": [
+    {
+     "from": "2009-04-01",
+     "units": 16,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/144.010",
+     "sha256": "d0a62993f50b1dd8cd7455d4d2511d61371fc5da6ff962a838ad3591f2cbb11f"
+    }
+   ]
+  },
+  {
+   "slug": "144-011",
+   "short": "GS 144.011",
+   "title": "Grossratsbeschluss betreffend Beitritt zur Vereinbarung zwischen Bund und Kantonen betreffend Umsetzung, Anwendung und Entwicklung des Schengen/Dublin-Besitzstands",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/144.011",
+   "versions": [
+    {
+     "from": "2009-02-18",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/144.011",
+     "sha256": "caf71d757e88c16acce6df1f14a3fbe54bab87fd5741994eae0e41e7693d4ad1"
+    }
+   ]
+  },
+  {
+   "slug": "160-011",
+   "short": "GS 160.011",
+   "title": "Standeskommissionsbeschluss über die Beitragsleistung an die Kosten der Bezirke für die eidgenössischen Abstimmungen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/160.011",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/160.011",
+     "sha256": "82b432865070c8059db677dbf503ded45501b5175f5ba89200af4c0b605d2a1b"
+    }
+   ]
+  },
+  {
+   "slug": "160-411",
+   "short": "GS 160.411",
+   "title": "Standeskommissionsbeschluss über die Sicherung des ungestörten Ablaufs der Landsgemeinde",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/160.411",
+   "versions": [
+    {
+     "from": "2006-08-14",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/160.411",
+     "sha256": "7bf34fd76484653953069129a5f97e34868b87afe1b1c66e83a0ad4915dc3c54"
+    }
+   ]
+  },
+  {
+   "slug": "170-011",
+   "short": "GS 170.011",
+   "title": "Standeskommissionsbeschluss über die Entschädigung von Behördenmitgliedern",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/170.011",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 8,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/170.011/versions/1515",
+     "sha256": "99e42f1d15780d1bd4ef7ade26c9eb23694db96cc5ccdc2deea9021ff8f92288"
+    },
+    {
+     "from": "2020-10-01",
+     "units": 8,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/170.011",
+     "sha256": "55f222d22b10a1360ee88faa6f3c2524da7073acea4fd35e194295a4de5d750f"
+    }
+   ]
+  },
+  {
+   "slug": "172-111-stkb-dep",
+   "short": "StKB Dep",
+   "title": "Standeskommissionsbeschluss über die Departemente, Amtsstellen und Kommissionen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.111",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111/versions/1593",
+     "sha256": "9d7e38de213b7a6ff731dbb24403729f470d49f37a0f5295362cb1392ef3558a"
+    },
+    {
+     "from": "2019-01-22",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111/versions/1686",
+     "sha256": "6829a7573358a72560b82391362caf87a5ade9055a646ad20c7a213873e6db0a"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111/versions/1830",
+     "sha256": "c75def54568bd35578fa3f8d985b26c9f5a6adda6c3e8e82c217e01db3128da0"
+    },
+    {
+     "from": "2021-04-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111/versions/1915",
+     "sha256": "11d572a1082a982903b8985751f54bb64c5daf3b00fb766bbe6e46a4b6e69364"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111/versions/2098",
+     "sha256": "1c8f545f1e2f31b6ab650d0b1ca46a625091aaefcd7ea29b3fe0a0f1b47d4382"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111/versions/2179",
+     "sha256": "85dcaa67eb8467c5fca701657c14233ba30055c3e913840e7a88d204400a5c9c"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111/versions/2231",
+     "sha256": "e3a0b7e27300b29e81a73d016a0dddf0e7c8e01ff0601cd96440b4827994f704"
+    },
+    {
+     "from": "2024-06-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111/versions/2361",
+     "sha256": "f9dce5921bf672ff5e3a4a8d95e0c17767b218b784c8b7b11561431871ba0f9a"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111/versions/2364",
+     "sha256": "f6e84390e8af685c1ab189bca26bdd2a5fb4c1472c67a437b907a30ea1dcca78"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.111",
+     "sha256": "2b99b1d653f42f90dffcf14aaad8830a7ddd700c6c055d172c55e092ec17e579"
+    }
+   ]
+  },
+  {
+   "slug": "172-114",
+   "short": "GS 172.114",
+   "title": "Register der Unterschriftsberechtigungen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.114",
+   "versions": [
+    {
+     "from": "2025-05-01",
+     "units": 2,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.114/versions/2360",
+     "sha256": "b94a428b07432f614d52676c96478bb395628e3b55e7614073c368f2b7aeb711"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 2,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.114",
+     "sha256": "27adbfb39eb5a1d9b8114dfdb26454c01cf05c151bb6b31de9fdb8e5cb3cf4f2"
+    }
+   ]
+  },
+  {
+   "slug": "172-121-stkb-aad",
+   "short": "StKB AAD",
+   "title": "Standeskommissionsbeschluss über die Aufbewahrung und Archivierung von Daten",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.121",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 34,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.121",
+     "sha256": "c50535de3347fbd3439ea6b37aaa37b9ef7a2daceadea7d29305b2edfe9ec44a"
+    }
+   ]
+  },
+  {
+   "slug": "172-311-stkb-pev",
+   "short": "StKB PeV",
+   "title": "Standeskommissionsbeschluss zur Personalverordnung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.311",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 100,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.311/versions/1121",
+     "sha256": "a102d1ee7ea64184220a67a46016989a426ce066c495cd0fd5866cba49e554c6"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 100,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.311/versions/1618",
+     "sha256": "28afe3010d57336eebc8915a19720a822dc31cf935ce92bfc8a69e42512cc0c2"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 101,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.311/versions/1751",
+     "sha256": "d094559b3e8c457d13f37244923d34f1444065b74b216345df861fe834fc8723"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 103,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.311/versions/1887",
+     "sha256": "55d43bb9f206eaebf7ecdd99a38133c3bc52e3eda4e8b7ae001159788f600aeb"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 107,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.311/versions/2009",
+     "sha256": "964cf55598b953097c9fd0bb70e59cf845cfd70b11ae6079fd4cebe2a6fd292a"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 107,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.311/versions/2200",
+     "sha256": "1465fd9a2eaaabea0245570d66c2e5f8f58188c70eb0a10d670812c3da9f985f"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 110,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.311/versions/2217",
+     "sha256": "a9cc6f54ff816d736c10682e61bedad8a6ae8613198212d732cf1261bc2fc441"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 110,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.311/versions/2365",
+     "sha256": "f771ef3e75eadc9ebc58a6f5ad6a3316a2af71a7c412a79b4f2ee663284c07a4"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 113,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.311",
+     "sha256": "5ca8b32cd5b05e61abf1bce1a05347e940d46147237ea7c147e08c5a396d2b8d"
+    }
+   ]
+  },
+  {
+   "slug": "172-313",
+   "short": "GS 172.313",
+   "title": "Standeskommissionsbeschluss über die Kündigungsfrist für Lehrkräfte am Gymnasium",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.313",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 3,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.313",
+     "sha256": "490fca207c202f9229ac378aedda2d1a2a7bb44d895ab745510046d89f24b722"
+    }
+   ]
+  },
+  {
+   "slug": "172-315",
+   "short": "GS 172.315",
+   "title": "Standeskommissionsbeschluss über die Informatiknutzung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.315",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 24,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.315/versions/1118",
+     "sha256": "8995a706afebede52bba36884a5054e3f712ed09f0d2f5a70085629247122e08"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 24,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.315",
+     "sha256": "75e065a77768cf947ab9163cf5e1ab818f9205c3e4596a5d10bda4353a2208ca"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 25,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.315/versions/2461",
+     "sha256": "5ede3eb4f2836b5c0b025df05b255e15717a992798c8401d26764dceba792c37"
+    }
+   ]
+  },
+  {
+   "slug": "172-401-gruppenversicherung",
+   "short": "Gruppenversicherung",
+   "title": "Standeskommissionsbeschluss über die Versicherung der Angestellten",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.401",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 21,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.401",
+     "sha256": "4f9f7c5f47eba80aa5d051f205625e088bcae4a46bca6a82fd4d2e0264060da0"
+    }
+   ]
+  },
+  {
+   "slug": "172-411",
+   "short": "GS 172.411",
+   "title": "Standeskommissionsbeschluss über die Kantonale Versicherungskasse",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.411",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 3,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.411/versions/1113",
+     "sha256": "c98a522e9db04cf219a5df8348915ebf46fda7847cacea4bc3fc7fbabffcc1ec"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 3,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.411",
+     "sha256": "8e4631e27315ffe95abcb8a2537f96f269674375d31c786a1da8cbc4f1f3062e"
+    }
+   ]
+  },
+  {
+   "slug": "172-412",
+   "short": "GS 172.412",
+   "title": "Standeskommissionsbeschluss über die Wahlen der Arbeitgebervertreter in die Verwaltungskommission der Kantonalen Versicherungskasse",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.412",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 7,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.412/versions/1136",
+     "sha256": "61664ccd97927bed82f4e1f0e62ade4e644a2d7446fd424f5ea54f3ed183bbfc"
+    },
+    {
+     "from": "2024-09-01",
+     "units": 7,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.412",
+     "sha256": "82561ca6f5e58a636e18b7a0934e2e2a8ed75d6711d5e29d3a70a66c6ba06c2e"
+    }
+   ]
+  },
+  {
+   "slug": "172-512",
+   "short": "GS 172.512",
+   "title": "Standeskommissionsbeschluss über die Entschädigung von Beiständen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.512",
+   "versions": [
+    {
+     "from": "2013-09-03",
+     "units": 8,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.512",
+     "sha256": "4e6c6ca5661cd6cf708d0d74b8d87ab1df9545f3d2921b6516cba04d69359022"
+    }
+   ]
+  },
+  {
+   "slug": "172-513-gebt",
+   "short": "GebT",
+   "title": "Gebührentarif",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/172.513",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 38,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.513/versions/1716",
+     "sha256": "4fa841e546a8d39cd4901c8214762f3b69062a5dc7dcd078664557e4372bbde6"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 38,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.513/versions/1832",
+     "sha256": "47d31ea9945305d07a15e948c9e13a2bde3b687ef4362aa10cdde948175360c0"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 38,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.513/versions/1983",
+     "sha256": "0b921cdf7191709066cef9469b2fd41caefc579e4cab1b0f77addd11010fc194"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 38,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.513/versions/2121",
+     "sha256": "89846008bd33ff2acf67d6e9f443135bf5043394bbfd0fb674339f7d3e55182e"
+    },
+    {
+     "from": "2023-03-01",
+     "units": 39,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.513/versions/2206",
+     "sha256": "bc3a23b608082113c8ed00257bc87421249c20eae000d4fc960f3ba5482f5fbc"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 40,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.513",
+     "sha256": "9385707410466203a75b8f83a30259a1003e4d1588f5f71f3673a6364c77c12f"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 41,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/172.513/versions/2462",
+     "sha256": "ff2f0725f1c760a71851bfff91f7f9e89fa56272678899abd38a9beccf1d2a8e"
+    }
+   ]
+  },
+  {
+   "slug": "173-700",
+   "short": "GS 173.700",
+   "title": "Konkordat über die Schiedsgerichtsbarkeit",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/173.700",
+   "versions": [
+    {
+     "from": "1981-04-26",
+     "units": 48,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/173.700",
+     "sha256": "aa4ba2bb9a3ed3369b57ea531397e7bb61336c03b4ffaaba4fff324c21a3da42"
+    }
+   ]
+  },
+  {
+   "slug": "173-710",
+   "short": "GS 173.710",
+   "title": "Grossratsbeschluss betreffend den Beitritt zum Konkordat über die Schiedsgerichtsbarkeit",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/173.710",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/173.710",
+     "sha256": "05b42029dd52211b67e29129c383bade2952c7b11eccc522a9d78d21083488fa"
+    }
+   ]
+  },
+  {
+   "slug": "177-101",
+   "short": "GS 177.101",
+   "title": "Geschäftsordnung der Anwaltskammer",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/177.101",
+   "versions": [
+    {
+     "from": "2003-06-11",
+     "units": 10,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/177.101",
+     "sha256": "7787f9e0c8cfedae0bd5771b0c4c40ad6c2f792eb0167a62507be1d49fcc9d89"
+    }
+   ]
+  },
+  {
+   "slug": "180-101",
+   "short": "GS 180.101",
+   "title": "Konkordat über die Pastoration und Besteuerung von in Appenzell A.Rh. wohnhaften Katholiken",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/180.101",
+   "versions": [
+    {
+     "from": "1968-03-21",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/180.101",
+     "sha256": "904c3bd16a6c045477867f2da9a3dce838b6fb4af9784a62a4c46217a50ecd5e"
+    }
+   ]
+  },
+  {
+   "slug": "180-201",
+   "short": "GS 180.201",
+   "title": "Konkordat zwischen dem Kanton Appenzell I.Rh. und dem Katholischen Konfessionsteil des Kantons St.Gallen über die staatskirchenrechtliche Stellung von in Oberegg wohnhaften Angehörigen katholischer Pfarreien im Kanton St.Gallen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/180.201",
+   "versions": [
+    {
+     "from": "2013-03-25",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/180.201",
+     "sha256": "a6060c491c1a2d5f64c671c47a68dd01372cebbccfd358daf3eabe0cd592ccc7"
+    }
+   ]
+  },
+  {
+   "slug": "180-301",
+   "short": "GS 180.301",
+   "title": "Vertrag über das Verhältnis von Innerrhoder Evangelisch-Reformierten zur Evangelisch-reformierten Landeskirche beider Appenzell und zu Ausserrhoder Kirchgemeinden",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/180.301",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 6,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/180.301",
+     "sha256": "e1d1fe9acf204824afbcd3406d8495bf13e44cd0217afacc565f9d1b3fb7af2b"
+    }
+   ]
+  },
+  {
+   "slug": "180-302",
+   "short": "GS 180.302",
+   "title": "Vertrag über die staatskirchenrechtliche Stellung von in Oberegg wohnhaften Angehörigen der Evangelischen Kirchgemeinde Altstätten",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/180.302",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/180.302",
+     "sha256": "71204aed4dc131461ceb6b87556438951be25ded713a19b306ec3a8ec2d0c5f3"
+    }
+   ]
+  },
+  {
+   "slug": "211-010",
+   "short": "GS 211.010",
+   "title": "Grossratsbeschluss über die Beschränkung der Taxen für den Einkauf in Korporationen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.010",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.010",
+     "sha256": "0d7de25a64c031d7c5520f06fbff6bc9a594195a210c521213a164dcb97a306e"
+    }
+   ]
+  },
+  {
+   "slug": "211-210-apv",
+   "short": "APV",
+   "title": "Adoptions- und Pflegekinderverordnung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.210",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 13,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.210",
+     "sha256": "dd04689f3eebf2637d99b35fead941ed3d40a65d98a09eb36487d9192e46e96d"
+    }
+   ]
+  },
+  {
+   "slug": "211-410",
+   "short": "GS 211.410",
+   "title": "Grossratsbeschluss betreffend Erläuterung des Zeddelgesetzes",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.410",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.410",
+     "sha256": "bab66553a0c3c532385c2b0182f42af88dd481bc126fbe2533c5fbc280fc0506"
+    }
+   ]
+  },
+  {
+   "slug": "211-451",
+   "short": "GS 211.451",
+   "title": "Standeskommissionsbeschluss über die Schätzung von Grundstücken",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.451",
+   "versions": [
+    {
+     "from": "2014-03-11",
+     "units": 8,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.451/versions/1155",
+     "sha256": "d9b7085bfbb78960af52115e0cf2ab0c0fd581d62be18cb9f039acb2ea342365"
+    },
+    {
+     "from": "2021-11-01",
+     "units": 8,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.451",
+     "sha256": "8da845b6c0b744a99fbf649057feb98e78085e24028a6e6b6dead54ef794d1d0"
+    }
+   ]
+  },
+  {
+   "slug": "211-601",
+   "short": "GS 211.601",
+   "title": "Standeskommissionsbeschluss über die Gebühren für Geodaten und Geodienste",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.601",
+   "versions": [
+    {
+     "from": "2011-07-01",
+     "units": 7,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.601/versions/1161",
+     "sha256": "cf47e4a133d1a7bf46379aed962d08161843c58f5e86d00aab4c19b5230b66eb"
+    },
+    {
+     "from": "2019-09-01",
+     "units": 8,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.601",
+     "sha256": "71b11347e927a1b52c16b7d37806d60a915d279e6dec1c9b05caab14289e26ca"
+    }
+   ]
+  },
+  {
+   "slug": "211-621-stkb-grundbuchdaten",
+   "short": "StKB Grundbuchdaten",
+   "title": "Standeskommissionsbeschluss über den Zugriff auf Grundbuchdaten",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.621",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.621/versions/1980",
+     "sha256": "bb674b99c5b7c96b8e5a57c0058e977b7130d9f02c9fa043e9a4a421b5842a32"
+    },
+    {
+     "from": "2022-08-30",
+     "units": 9,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.621/versions/2091",
+     "sha256": "5bef0aaddaf9b590af0d6e6300133224a34947d95deb623398f03426b6dc698c"
+    },
+    {
+     "from": "2024-06-01",
+     "units": 9,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.621",
+     "sha256": "2abf22223630385cda02a8827c363d1be5abf6b36005bddf566536ddc82abea6"
+    }
+   ]
+  },
+  {
+   "slug": "211-701-stkb-stiftungsaufsicht",
+   "short": "StKB Stiftungsaufsicht",
+   "title": "Standeskommissionsbeschluss über die Stiftungsaufsicht",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.701",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 15,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.701/versions/1164",
+     "sha256": "62df884543d04351193d83ae11f84095c0b8676e64091f06e3fe52a272b684e5"
+    },
+    {
+     "from": "2021-09-01",
+     "units": 13,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.701",
+     "sha256": "09404648d772c419c51511b4c6faa467ba70ecc9e5a33094dc755e108d09384b"
+    }
+   ]
+  },
+  {
+   "slug": "211-910-ivbsa",
+   "short": "IVBSA",
+   "title": "Interkantonale Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Tessin",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.910",
+   "versions": [
+    {
+     "from": "2007-02-26",
+     "units": 30,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.910/versions/2402",
+     "sha256": "4cae256bf83be76f25b18b3388c7bbff7c811936395ef605ab2afd0382654926"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 38,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.910",
+     "sha256": "0e784e15e09a32874bebeaa1ea9a9e1e632c6aef044306b0cc1a628b3ea7f2ba"
+    }
+   ]
+  },
+  {
+   "slug": "211-911",
+   "short": "GS 211.911",
+   "title": "Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über die BVG- und Stiftungsaufsicht der Kantone Zürich, Glarus, Schaffhausen, Appenzell Ausserrhoden, Appenzell Innerrhoden, St.Gallen, Graubünden, Thurgau und Tessin (IVBSA)",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.911",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.911/versions/1165",
+     "sha256": "fee5a6f797a7333bce59823e672daf786ef03b5ae01d37259116650b2c26488b"
+    },
+    {
+     "from": "2024-10-21",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.911",
+     "sha256": "9da92bac6bb4aaca434ef4a708d2e6fb6aff5c1a04bf48fb98e6a5a16529dd59"
+    }
+   ]
+  },
+  {
+   "slug": "211-920",
+   "short": "GS 211.920",
+   "title": "Übereinkommen zwischen den Regierungen der Kantone Appenzell A. Rh. und Appenzell I. Rh. betreffend die Beurkundung und die grundbuchliche Behandlung von Rechtsgeschäften über dingliche Rechte an Grundstücken, die in beiden Kantonen liegen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/211.920",
+   "versions": [
+    {
+     "from": "1941-03-24",
+     "units": 6,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/211.920",
+     "sha256": "9901152397b6393ee6c1267762a00d5b2abdebcd1d605e519b20fab0da3c9393"
+    }
+   ]
+  },
+  {
+   "slug": "221-210",
+   "short": "GS 221.210",
+   "title": "Grossratsbeschluss über kantonale Zusatzbestimmungen betreffend Viehwährschaft",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/221.210",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/221.210",
+     "sha256": "4c08d3e20612b9cca9705738c66e184a6b0a60dc9e1b72b66a197be6daa8f88e"
+    }
+   ]
+  },
+  {
+   "slug": "270-000-eg-zpo",
+   "short": "EG ZPO",
+   "title": "Einführungsgesetz zur Schweizerischen Zivilprozessordnung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/270.000",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "units": 13,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/270.000/versions/1172",
+     "sha256": "e9338a595225b6e658ae29a6c1029484f906c0044c6c427cd3276b67e7b49584"
+    },
+    {
+     "from": "2019-05-01",
+     "units": 13,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/270.000/versions/1687",
+     "sha256": "d506abf0a1865c91819715663374ba6eb289e077638b570369566d774e57b5dc"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 14,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/270.000",
+     "sha256": "60f2a6428cf4f4af4522834868cc8be83d96301ae20012fe3fff7ae6130c6fd3"
+    }
+   ]
+  },
+  {
+   "slug": "312-000-eg-stpo",
+   "short": "EG StPO",
+   "title": "Einführungsgesetz zur Schweizerischen Strafprozessordnung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/312.000",
+   "versions": [
+    {
+     "from": "2015-04-26",
+     "units": 22,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/312.000/versions/1500",
+     "sha256": "f31c0abdc3b8a6de3da2885cce98b7241dde296d956e0343cf9faf794fc1bdd9"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 23,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/312.000/versions/1846",
+     "sha256": "f5a863caaa8c6c7957e786b16b95514b2b7b33ba2553975b8766f4857c1eb3b1"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 25,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/312.000",
+     "sha256": "bfbddd2e0b15c7338e03e7aa9407021b96e16875708490a5b394a574ff7f1b25"
+    }
+   ]
+  },
+  {
+   "slug": "314-000-eg-jstpo",
+   "short": "EG JStPO",
+   "title": "Einführungsgesetz zur Schweizerischen Jugendstrafprozessordnung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/314.000",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 11,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/314.000/versions/1177",
+     "sha256": "fa9477f03b5f7bc3c126d784ff8c4db9e2eccf641cca08d3af8397a5b03bfddc"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/314.000/versions/1847",
+     "sha256": "f0a606b2e3a4e3f0f1fca597bddcec68f81931399952701f4265ce2dbd7cdd0a"
+    },
+    {
+     "from": "2021-06-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/314.000",
+     "sha256": "c64d0ecf6ba326fc2631a97932762eda758ec3d99f3c4b47cb70503b02c375fc"
+    }
+   ]
+  },
+  {
+   "slug": "322-001",
+   "short": "GS 322.001",
+   "title": "Standeskommissionsbeschluss über die Zuständigkeit im militärischen Disziplinarstrafrecht",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/322.001",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/322.001",
+     "sha256": "11d2d056bb609af051389a3b8d7f66b81aff21f843476a6cc44f8205ca96a7f5"
+    }
+   ]
+  },
+  {
+   "slug": "330-001",
+   "short": "GS 330.001",
+   "title": "Standeskommissionsbeschluss über das Strafregister und die Strafkontrolle",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/330.001",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 18,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/330.001",
+     "sha256": "69946d87062974358fe97bbbc497035ba1ebc1619d8b573907acff812ce209ab"
+    }
+   ]
+  },
+  {
+   "slug": "340-001",
+   "short": "GS 340.001",
+   "title": "Standeskommissionsbeschluss über das Kantonsgefängnis",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/340.001",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 24,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/340.001",
+     "sha256": "25a4898747f13a2f6503a24eed66e3e86f7ccbf04049a8b932ba2ff6d385dc5b"
+    }
+   ]
+  },
+  {
+   "slug": "340-002",
+   "short": "GS 340.002",
+   "title": "Standeskommissionsbeschluss über den tageweisen Strafvollzug und die Halbgefangenschaft",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/340.002",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 18,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/340.002",
+     "sha256": "e04e9afe3e91cfd6d8de9bebc8984975c1e7b348dad27dda6bdd2bf5a8d65f48"
+    }
+   ]
+  },
+  {
+   "slug": "340-003",
+   "short": "GS 340.003",
+   "title": "Standeskommissionsbeschluss über die gemeinnützige Arbeit im Strafvollzug",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/340.003",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 18,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/340.003",
+     "sha256": "0479390a85c2c51c6bf9343156a80870256bcadf7c8d587fd79d6c0ec1ce46eb"
+    }
+   ]
+  },
+  {
+   "slug": "340-910",
+   "short": "GS 340.910",
+   "title": "Konkordat über die Kosten des Strafvollzugs",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/340.910",
+   "versions": [
+    {
+     "from": "1948-02-11",
+     "units": 29,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/340.910",
+     "sha256": "de8671a574183c97c40d4445d81ad42174ab5540da77f3e39c0ae0e93224bc66"
+    }
+   ]
+  },
+  {
+   "slug": "340-911",
+   "short": "GS 340.911",
+   "title": "Grossratsbeschluss über den Beitritt zum Konkordat über die Kosten des Strafvollzugs",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/340.911",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/340.911",
+     "sha256": "523e00277f793ef4d3680784694296d51538d3664234168a18b5c058f2a02b6f"
+    }
+   ]
+  },
+  {
+   "slug": "340-920",
+   "short": "GS 340.920",
+   "title": "Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/340.920",
+   "versions": [
+    {
+     "from": "2007-01-01",
+     "units": 20,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/340.920",
+     "sha256": "00ad80a47679033615722a7d3672a960c7d3afdff5b980e2f316ea072e526f53"
+    }
+   ]
+  },
+  {
+   "slug": "340-921",
+   "short": "GS 340.921",
+   "title": "Grossratsbeschluss über den Beitritt zum Konkordat der ostschweizerischen Kantone über den Vollzug von Strafen und Massnahmen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/340.921",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/340.921",
+     "sha256": "571c694a29d7776e36e16a0da56df5dbf93bcbd5f53cad6b9bc0d00b37bb0c41"
+    }
+   ]
+  },
+  {
+   "slug": "410-610",
+   "short": "GS 410.610",
+   "title": "Grossratsbeschluss betreffend Leistung von Beiträgen an die familienexterne Kinderbetreuung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/410.610",
+   "versions": [
+    {
+     "from": "2010-01-01",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/410.610",
+     "sha256": "11fa7f51bef1ba32be61d81606de74f834fdb47e135e4c6e583047e2f682478e"
+    }
+   ]
+  },
+  {
+   "slug": "410-611",
+   "short": "GS 410.611",
+   "title": "Standeskommissionsbeschluss über die Leistung von Beiträgen an die familienexterne Kinderbetreuung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/410.611",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 11,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/410.611/versions/1184",
+     "sha256": "b1ed0e2b694eadb475206e2399d7628484212c243551dc06921b4f0a2d1a3e93"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 11,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/410.611",
+     "sha256": "be224a6aa3fd30007c020e945004f579120b379ebe697d126c0cf24939868277"
+    }
+   ]
+  },
+  {
+   "slug": "411-011-stkb-schg",
+   "short": "StKB SchG",
+   "title": "Standeskommissionsbeschluss zum Schulgesetz",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/411.011",
+   "versions": [
+    {
+     "from": "2017-06-14",
+     "units": 34,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/1187",
+     "sha256": "81c2fb41c118622890eed14346faea8ec4a122860988386f2414919f84dc7a81"
+    },
+    {
+     "from": "2018-08-01",
+     "units": 34,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/1798",
+     "sha256": "179d9527742a2b20b3d29cc03250de12cdbb96f4276a7988dae69a92558e148a"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 34,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/1836",
+     "sha256": "5d6f33be951bf5c5b97d873bc3c0b7a74e5ee7dbba231bac4f246b661d0a44bb"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 35,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2207",
+     "sha256": "59085f6c233d842d0ef58d6132a0f0234fd5504c1151d747b27018a43720af23"
+    },
+    {
+     "from": "2021-07-01",
+     "units": 35,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2208",
+     "sha256": "ba4eaa0b261d0c92c1a7d1c2aa93c11a0434c7c53a43dbaaeb191e68d86923fc"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 35,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2209",
+     "sha256": "476bf82c7fb56c51352f14e71e6969f49f00a273676605d175f906e9378cb1c2"
+    },
+    {
+     "from": "2022-04-01",
+     "units": 37,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2210",
+     "sha256": "adb43338f45dfac8a281ee53f4404aaca4a88a770f3b3c908f36ac92dca1f7af"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 37,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2214",
+     "sha256": "a766d6ea2317353f5bf1a77ce5866586ff07e30c7aaeb0680800d2ac8f8dc518"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 37,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2228",
+     "sha256": "be8d15d0dbb45dcd0d016774219aa7bb734db9ff78d756b57980c22588cbe8d3"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 37,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2293",
+     "sha256": "b3a8b980bac3cf19a116c659c3fbe8264f2c4678adf9ab6fa7e5cf4f915ad51c"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 37,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2373",
+     "sha256": "3c9a907a041d17577f516deb0721d7e9fa35810da384a8a588f6ab6b43741ee8"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 37,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2413",
+     "sha256": "941c4db95f3302f824eea5c6f7d82a4fcdd5f3073df1d816c49f0f4f108fc870"
+    },
+    {
+     "from": "2026-01-02",
+     "units": 37,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011/versions/2429",
+     "sha256": "042ce0f38aef708a5d568c03fc6f5d60443f180d436cf7aed5fb032e24b2f738"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 36,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.011",
+     "sha256": "bab41eb805ec5ce1d6552ace0c67d134c746c074553d39a713782e55aca4dba2"
+    }
+   ]
+  },
+  {
+   "slug": "411-012-lskb-schg",
+   "short": "LSKB SchG",
+   "title": "Landesschulkommissionsbeschluss zum Schulgesetz",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/411.012",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 153,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.012/versions/1188",
+     "sha256": "6bb7a311649fd91663b1e31c9885491ce6334fee7c96f6bf10c9c80f66a35f1a"
+    },
+    {
+     "from": "2018-08-01",
+     "units": 153,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.012/versions/1611",
+     "sha256": "9d6b52d9cc706e069f862820252ce55fbd29b9dfcacb5667aab35ae4ac62db4f"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 153,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.012/versions/1698",
+     "sha256": "407b77b3195598b93580db95167212d91eb79663a54d0982b35ce6aad01e1ff3"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 153,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.012/versions/1834",
+     "sha256": "c4fdb0cdd5ec15fbab2119ef116913a30533446211b8b3afb479b967a6ead41e"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 153,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.012/versions/1987",
+     "sha256": "4ab57c6c2d63c122b426fa087217ab0ec81d4214e19ecf887d153a5b5fc37ff9"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 153,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.012/versions/1989",
+     "sha256": "3187d4d04f9c5266001c678ecb9d367091020f34e92f66e72d54aaf255deee86"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 153,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.012/versions/2258",
+     "sha256": "1acb338f1d8373d930b6d1711adcb1f4f2229392d9419c5e8e58802ed4a65016"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 161,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.012/versions/2376",
+     "sha256": "e67be4d81884be7671bd3ad7025ae32ebcceb4582c6c9eb814cd3ad7b0b3252c"
+    },
+    {
+     "from": "2026-03-01",
+     "units": 166,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.012",
+     "sha256": "0726c7ea3835d2c667826ba8eb7cd912941b1b160f3e98bfee02a23854a14679"
+    }
+   ]
+  },
+  {
+   "slug": "411-015-stkb-schulerganzende-betreuung",
+   "short": "StKB schulergänzende Betreuung",
+   "title": "Standeskommissionsbeschluss über die schulergänzende Betreuung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/411.015",
+   "versions": [
+    {
+     "from": "2022-08-01",
+     "units": 11,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.015",
+     "sha256": "5f8c7224b3796c52ff5b405af9ccaf87f1ab3f4e79ed905f9ce66c863f499db6"
+    }
+   ]
+  },
+  {
+   "slug": "411-511",
+   "short": "GS 411.511",
+   "title": "Standeskommissionsbeschluss über Beiträge an die Kosten der Zahnbehandlung der Schulkinder",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/411.511",
+   "versions": [
+    {
+     "from": "2004-08-16",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.511",
+     "sha256": "a67a24c79180014f34e5f5da9d782512a46af3abaa6803b1d39963ac6b17c5a4"
+    }
+   ]
+  },
+  {
+   "slug": "411-910",
+   "short": "GS 411.910",
+   "title": "Konkordat über die Schulkoordination",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/411.910",
+   "versions": [
+    {
+     "from": "1970-12-07",
+     "units": 13,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.910",
+     "sha256": "5ae8d8f9fa332d5fa4670c0808d1fd468ede01add3765c152c0f1bd1d55183cc"
+    }
+   ]
+  },
+  {
+   "slug": "411-911",
+   "short": "GS 411.911",
+   "title": "Grossratsbeschluss über den Beitritt zum Konkordat über die Schulkoordination",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/411.911",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 3,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/411.911",
+     "sha256": "63daf4a45b440652a52c87ecc8ba1131b8cdda0533b60830fbc3aeeff9cf858c"
+    }
+   ]
+  },
+  {
+   "slug": "412-011",
+   "short": "GS 412.011",
+   "title": "Standeskommissionsbeschluss zur Gymnasialverordnung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/412.011",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 25,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/1194",
+     "sha256": "fabb8e1f25e962047757394fb07e70c45110670e97dd3a7ec8428456d31b254c"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 27,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/1619",
+     "sha256": "e61ec90a8b9ad60bba149473d1e846d64caf4550ef40bc95237d1fb069e4843d"
+    },
+    {
+     "from": "2019-08-01",
+     "units": 28,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/1695",
+     "sha256": "a41dd37b7ec2eba03980c804a4536a673460176dfb0142db6b053886a2c26460"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 28,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/1799",
+     "sha256": "7efc0d835a52556307ff2808b64cfe45ac37cb5482b6f498d1b6aea1a65dbdc7"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 28,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/1872",
+     "sha256": "1377ccbf7a44cdd7c55a40d1363f69152e57f62b2a3496e7bac57812d6b67617"
+    },
+    {
+     "from": "2022-08-01",
+     "units": 32,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/2062",
+     "sha256": "1cd6141fa7634130ba93bec17368a5a093024798f776f9945d551f87a5bd164e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 32,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/2181",
+     "sha256": "895c2b38ce072f520b985804661da3659c8964192ec3c043baf91db34ff5e6b5"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 32,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/2255",
+     "sha256": "241048669e6ee06710db53784350686a391d4585b9a522895f5716283ef1e325"
+    },
+    {
+     "from": "2024-08-01",
+     "units": 32,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/2325",
+     "sha256": "0766a56fdd174476c92a11a6c74b2dc4e5484b8ae674869d046eb9c6b8c20bca"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 32,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011/versions/2326",
+     "sha256": "f94707d234ab980c69ef07415a2d078f379807c4bb49b32d6a6bd295c02bb219"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 32,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.011",
+     "sha256": "38411484f916cdd87a84d528d763cd13c2cf0bcf5a16f79f03c5c6892ba30113"
+    }
+   ]
+  },
+  {
+   "slug": "412-012",
+   "short": "GS 412.012",
+   "title": "Landesschulkommissionsbeschluss zur Gymnasialverordnung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/412.012",
+   "versions": [
+    {
+     "from": "2017-02-01",
+     "units": 70,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.012/versions/1195",
+     "sha256": "0a37349e87b0f078a99683220b11a94e0e12f71453ceb416c33f96e5263907fb"
+    },
+    {
+     "from": "2019-12-19",
+     "units": 71,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.012/versions/2125",
+     "sha256": "04ba860fcf5d146fec14dfc98411ccd8b451b690a205c4495a9c10fe2689d52f"
+    },
+    {
+     "from": "2023-08-01",
+     "units": 72,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.012",
+     "sha256": "693bdc3287bf4776fe836eef6d5033307eae34d555366a85973f45d2ad731f77"
+    }
+   ]
+  },
+  {
+   "slug": "412-901-regionales-schulabkommen",
+   "short": "Regionales Schulabkommen",
+   "title": "Vereinbarung über die Leistung von Schulbeiträgen für Auszubildende an Schulen der Sekundarstufe II",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/412.901",
+   "versions": [
+    {
+     "from": "2001-08-01",
+     "units": 24,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.901",
+     "sha256": "7e69e67462657764a3fe39496aa500b39c96cadf54596aeecf0e034967673293"
+    }
+   ]
+  },
+  {
+   "slug": "412-910",
+   "short": "GS 412.910",
+   "title": "Interkantonale Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/412.910",
+   "versions": [
+    {
+     "from": "2018-12-03",
+     "units": 24,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.910",
+     "sha256": "5fad0e95e79c8f4a305ff73d898c660265e444310d5b697d081bbff44413733b"
+    }
+   ]
+  },
+  {
+   "slug": "412-911-hbv",
+   "short": "HBV",
+   "title": "Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung für Schulen mit spezifisch-strukturierten Angeboten für Hochbegabte",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/412.911",
+   "versions": [
+    {
+     "from": "2018-12-03",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/412.911",
+     "sha256": "b2fd3a38aaf80dc05b656c57f080209079aedf452b762b5c6cd9e1388239570e"
+    }
+   ]
+  },
+  {
+   "slug": "413-011",
+   "short": "GS 413.011",
+   "title": "Standeskommissionsbeschluss betreffend Brückenangebote",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/413.011",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 14,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/413.011/versions/1202",
+     "sha256": "71ddd51942510c1b53a61864bf43834b31c387381233820405bf64a080327458"
+    },
+    {
+     "from": "2020-08-01",
+     "units": 14,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/413.011/versions/1746",
+     "sha256": "4918fe734c870567940215fd68715c47097da50341ba34d7f30ba379918cc69d"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 14,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/413.011/versions/1969",
+     "sha256": "324d66f7c2507a163b3528b9104358953dc885c256ca7d86282ff0a957125221"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 13,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/413.011",
+     "sha256": "7b928ce70de0742ada803a2faa57fc00ffe370cf6b7456d7be1b3d2773f09f20"
+    }
+   ]
+  },
+  {
+   "slug": "413-012",
+   "short": "GS 413.012",
+   "title": "Standeskommissionsbeschluss über den Fonds für die Appenzeller Lehre",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/413.012",
+   "versions": [
+    {
+     "from": "2022-02-01",
+     "units": 6,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/413.012",
+     "sha256": "1c66a9ec7c79eb46c7df414d6b7988908a133ea22bc3806961f51a6c1f7f5f9b"
+    }
+   ]
+  },
+  {
+   "slug": "413-910-fsv",
+   "short": "FSV",
+   "title": "Interkantonale Fachschulvereinbarung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/413.910",
+   "versions": [
+    {
+     "from": "2000-08-01",
+     "units": 21,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/413.910",
+     "sha256": "04fae340b6c761bbe471095e8e5f0176f6bb2ded77b37a29c3463d17bbac7149"
+    }
+   ]
+  },
+  {
+   "slug": "413-911",
+   "short": "GS 413.911",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur interkantonalen Fachschulvereinbarung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/413.911",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/413.911",
+     "sha256": "b563557add42e7cf9398cef82dae18b7a9149cafcd0d6d6f002d6bc50a4cbcf9"
+    }
+   ]
+  },
+  {
+   "slug": "413-920-hfsv",
+   "short": "HFSV",
+   "title": "Interkantonale Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/413.920",
+   "versions": [
+    {
+     "from": "2014-01-01",
+     "units": 22,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/413.920",
+     "sha256": "29049e8d4610ec9430e8c1139125b6c274fd24586f13bb1c86921577d45f3724"
+    }
+   ]
+  },
+  {
+   "slug": "413-921-hfsv",
+   "short": "HFSV",
+   "title": "Grossratsbeschluss für den Beitritt zur Interkantonalen Vereinbarung über Beiträge an die Bildungsgänge der höheren Fachschulen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/413.921",
+   "versions": [
+    {
+     "from": "2014-03-31",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/413.921",
+     "sha256": "73008c6685263d0d31e6de72672ba26e48157271a19b902d95ba996b555cc212"
+    }
+   ]
+  },
+  {
+   "slug": "414-910",
+   "short": "GS 414.910",
+   "title": "Interkantonale Fachhochschulvereinbarung (FHV) ab 2005",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.910",
+   "versions": [
+    {
+     "from": "2005-10-01",
+     "units": 25,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.910",
+     "sha256": "012bae0712f4fe8ed7c9ff9618bade8107c710c8a7ff20d1cdc723fc94655aad"
+    }
+   ]
+  },
+  {
+   "slug": "414-911",
+   "short": "GS 414.911",
+   "title": "Grossratsbeschluss betreffend den Beitritt zur Interkantonalen Fachhochschulvereinbarung (FHV)",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.911",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.911",
+     "sha256": "34abdfcb9f0e8aeda55e103cd6f6b101bffeaf412f475e31c69a35aedb50e765"
+    }
+   ]
+  },
+  {
+   "slug": "414-920",
+   "short": "GS 414.920",
+   "title": "Vereinbarung über die Interkantonale Fachhochschule St.Gallen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.920",
+   "versions": [
+    {
+     "from": "2000-01-01",
+     "units": 22,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.920",
+     "sha256": "f309d5de0629cb6444cfe4976f2c5659b1d37301baaaa68e7c110b46965fc00d"
+    }
+   ]
+  },
+  {
+   "slug": "414-921",
+   "short": "GS 414.921",
+   "title": "Standeskommissionsbeschluss betreffend den Beitritt zur Vereinbarung über die Fachhochschule St.Gallen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.921",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.921",
+     "sha256": "577f7de5e84d26425515c1a361eaaa0714875de477ef7f7c0f165812a6a4710d"
+    }
+   ]
+  },
+  {
+   "slug": "414-930-interkantonale-universitatsvereinbarung-iuv",
+   "short": "Interkantonale Universitätsvereinbarung, IUV",
+   "title": "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten von universitären Hochschulen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.930",
+   "versions": [
+    {
+     "from": "1999-01-01",
+     "units": 29,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.930/versions/1222",
+     "sha256": "c0f0f6a04c563a51b4b1a1dc5475171cc5e0f3e37b9c823edce188eb9a3c4e4b"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 29,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.930",
+     "sha256": "0315f7d32a8306d8e032f5077de0d769c3f7488292bed133c15f2614c1a6a1bd"
+    }
+   ]
+  },
+  {
+   "slug": "414-931",
+   "short": "GS 414.931",
+   "title": "Grossratsbeschluss über den Beitritt zur Interkantonalen Universitätsvereinbarung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.931",
+   "versions": [
+    {
+     "from": "2006-10-23",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.931/versions/1220",
+     "sha256": "8b0c33eea715eeac8988522ac8d0f389042b86e5129ba666fe494f7e86ca4aed"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.931",
+     "sha256": "554b31423c7a0c55f1995c53cbf3d3284a3ef0578c8ca69f8b5a8cb383d8788d"
+    }
+   ]
+  },
+  {
+   "slug": "414-940-hochschulkonkordat",
+   "short": "Hochschulkonkordat",
+   "title": "Interkantonale Vereinbarung über den schweizerischen Hochschulbereich",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.940",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 19,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.940",
+     "sha256": "3c42c4bbad7d72a550b26e7dcd001be23e89681f8de1e0a27449b355e7837242"
+    }
+   ]
+  },
+  {
+   "slug": "414-941",
+   "short": "GS 414.941",
+   "title": "Grossratsbeschluss für den Beitritt zur Interkantonalen Vereinbarung über den schweizerischen Hochschulbereich",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.941",
+   "versions": [
+    {
+     "from": "2015-06-22",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.941",
+     "sha256": "91381704c1fe617a28de0c06307dade0da8a0f84448fa26ea67eeb4c940b6f3e"
+    }
+   ]
+  },
+  {
+   "slug": "414-960",
+   "short": "GS 414.960",
+   "title": "Vereinbarung über die Ost - Ostschweizer Fachhochschule",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.960",
+   "versions": [
+    {
+     "from": "2019-06-24",
+     "units": 67,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.960",
+     "sha256": "1a4b13fef0e9207b04ceda8a65e2ba99641279dd85128a21f42b8ae54e0a6fe2"
+    }
+   ]
+  },
+  {
+   "slug": "414-961",
+   "short": "GS 414.961",
+   "title": "Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung über die Ost - Ostschweizer Fachhochschule",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/414.961",
+   "versions": [
+    {
+     "from": "2019-06-24",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/414.961",
+     "sha256": "a29c2c7ce736484d79a67e93ee2376dc5d7d9662fc03c59292887a757cbc0e1e"
+    }
+   ]
+  },
+  {
+   "slug": "415-011-stkb-sportv",
+   "short": "StKB SportV",
+   "title": "Standeskommissionsbeschluss zur Sportverordnung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/415.011",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 8,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/415.011/versions/1215",
+     "sha256": "ce08a27d8c5eedb769276bfdf91e6b38348aa83a8c02174a1609aeee5c0cf6fc"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 9,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/415.011",
+     "sha256": "e9e0c106015d8f7e5e874635b2da700a0121a4e5fbab86b4174653c190678bab"
+    }
+   ]
+  },
+  {
+   "slug": "416-011-stkb-ausbg",
+   "short": "StKB AusbG",
+   "title": "Standeskommissionsbeschluss über Ausbildungsbeiträge",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/416.011",
+   "versions": [
+    {
+     "from": "2017-05-01",
+     "units": 14,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/416.011/versions/1212",
+     "sha256": "3158830635eac1cd27a6a7d2486c50934319cc1e5f0364c6c316b84b4f89750a"
+    },
+    {
+     "from": "2018-08-01",
+     "units": 14,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/416.011/versions/1848",
+     "sha256": "1e522e3e38edee305a700c48821e10e8cb22ab3d5829f8f766082b91a30be09e"
+    },
+    {
+     "from": "2021-08-01",
+     "units": 14,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/416.011",
+     "sha256": "cc765c47d7e44e9880edac9236acb18d77960a11815de745c57b7766a71e7982"
+    }
+   ]
+  },
+  {
+   "slug": "416-910-berufsfachschulvereinbarung-bfsv",
+   "short": "Berufsfachschulvereinbarung, BFSV",
+   "title": "Interkantonale Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/416.910",
+   "versions": [
+    {
+     "from": "2007-08-01",
+     "units": 18,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/416.910",
+     "sha256": "fea39c68488e8cd58c7f41d310239dce9c7bd63d310f4338eb5f5b42ea27e163"
+    }
+   ]
+  },
+  {
+   "slug": "416-911-bfsv",
+   "short": "BFSV",
+   "title": "Grossratsbeschluss betreffend Genehmigung der Interkantonalen Vereinbarung über die Beiträge an die Ausbildungskosten in der beruflichen Grundbildung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/416.911",
+   "versions": [
+    {
+     "from": "2006-11-20",
+     "units": 3,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/416.911",
+     "sha256": "29d9b7557f94d728da40cfc5ecabfcd320eee1c4c6735cabac509c7d2aa5dd96"
+    }
+   ]
+  },
+  {
+   "slug": "418-910",
+   "short": "GS 418.910",
+   "title": "Interkantonale Vereinbarung über die Anerkennung von Ausbildungsabschlüssen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/418.910",
+   "versions": [
+    {
+     "from": "2005-11-21",
+     "units": 19,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/418.910/versions/1226",
+     "sha256": "1b2da17670651724e871f53d9c8ec5496bdb126e99e252f160fd70d25db4bb13"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 19,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/418.910",
+     "sha256": "397e90e4310e6809a1c286a8ec37649ff912b75b2ff8b2d8454ea86abd224f4f"
+    }
+   ]
+  },
+  {
+   "slug": "418-911",
+   "short": "GS 418.911",
+   "title": "Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung über die Anerkennung von Ausbildungsabschlüssen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/418.911",
+   "versions": [
+    {
+     "from": "2014-12-01",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/418.911",
+     "sha256": "d50287ce5dc4698aac8f026a17a727e94d7389279d403ac7ee3293c8b2237b2b"
+    }
+   ]
+  },
+  {
+   "slug": "419-211",
+   "short": "GS 419.211",
+   "title": "Standeskommissionsbeschluss über die Förderung von Freizeitangeboten für Kinder und Jugendliche",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/419.211",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 15,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/419.211",
+     "sha256": "5335b47c5675ab747d5de5cef809f39d67d367a4fcbda85315d453db75e42dc9"
+    }
+   ]
+  },
+  {
+   "slug": "433-001",
+   "short": "GS 433.001",
+   "title": "Standeskommissionsbeschluss über die Ablieferung von Publikationen an die Kantonsbibliothek",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/433.001",
+   "versions": [
+    {
+     "from": "2003-07-01",
+     "units": 7,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/433.001",
+     "sha256": "b9fdbb78e3d57da11c4203b44b9915debf5761cc639bb16981e15c47f2c20ff3"
+    }
+   ]
+  },
+  {
+   "slug": "442-001-stkb-pro-i-rh",
+   "short": "StKB Pro I.Rh.",
+   "title": "Standeskommissionsbeschluss über die Verwaltung der Stiftung Pro Innerrhoden",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/442.001",
+   "versions": [
+    {
+     "from": "2013-06-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/442.001/versions/1232",
+     "sha256": "a2c4aafbb5fe8baf09d44d8c4a9f1edf14ddb1b3ac5ba68da9c2ced69a5f6c31"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/442.001",
+     "sha256": "e1fc59bbc6af46e11fde92a76e3485c1bd5a0120df91c4ebb8ab2c8685d59e53"
+    }
+   ]
+  },
+  {
+   "slug": "442-101",
+   "short": "GS 442.101",
+   "title": "Standeskommissionsbeschluss über die Verwaltung der Innerrhoder Kunststiftung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/442.101",
+   "versions": [
+    {
+     "from": "2006-08-14",
+     "units": 11,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/442.101",
+     "sha256": "9d8eaba8e1379dd44c40d62e02486cf259f99e0a424ccae222f039e12c895420"
+    }
+   ]
+  },
+  {
+   "slug": "446-001",
+   "short": "GS 446.001",
+   "title": "Standeskommissionsbeschluss über die Herausgabe einer Reihe «Innerrhoder Schriften»",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/446.001",
+   "versions": [
+    {
+     "from": "2006-08-14",
+     "units": 9,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/446.001",
+     "sha256": "8aeb0e737c52648feeabedbbad8c383aa122d52fa550047fbd29c4855cb7d63f"
+    }
+   ]
+  },
+  {
+   "slug": "446-002",
+   "short": "GS 446.002",
+   "title": "Standeskommissionsbeschluss über den Fonds für kulturelle Zwecke",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/446.002",
+   "versions": [
+    {
+     "from": "2006-08-14",
+     "units": 5,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/446.002",
+     "sha256": "730a71faafb4627f7fd24e2f4fb5c75be40f88f8afc12aca17657b3507e1b2a7"
+    }
+   ]
+  },
+  {
+   "slug": "446-900",
+   "short": "GS 446.900",
+   "title": "Landsgemeindebeschluss betreffend Beitritt des Kantons Appenzell I.Rh. zur Vereinbarung über die interkantonale Zusammenarbeit und den Lastenausgleich im Bereich der Kultureinrichtungen von überregionaler Bedeutung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/446.900",
+   "versions": [
+    {
+     "from": "2011-05-01",
+     "units": 4,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/446.900",
+     "sha256": "9af1e03035d64ed96412e8240498d746aca771542be0c11824ac1c5cdd49f688"
+    }
+   ]
+  },
+  {
+   "slug": "446-910",
+   "short": "GS 446.910",
+   "title": "Vereinbarung über die interkantonale Zusammenarbeit und den Lastenausgleich im Bereich der Kultureinrichtungen von überregionaler Bedeutung",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/446.910",
+   "versions": [
+    {
+     "from": "2011-01-01",
+     "units": 21,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/446.910",
+     "sha256": "7365d869e9e21eb4b5200046c6f87891388c7ca2dbfd16603f5f69ab26007f8b"
+    }
+   ]
+  },
+  {
+   "slug": "450-011-stkb-denkmalpflege",
+   "short": "StKB Denkmalpflege",
+   "title": "Standeskommissionsbeschluss über die Denkmalpflege",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/450.011",
+   "versions": [
+    {
+     "from": "2014-09-16",
+     "units": 10,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/450.011/versions/1250",
+     "sha256": "9d27140b163a91fc9f40400be6c72e6071874d85f0b7612d0f8710a7c74614b3"
+    },
+    {
+     "from": "2023-05-01",
+     "units": 12,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/450.011",
+     "sha256": "382cad37497216d7d528ffa3b1d18da2da6383dcb542e3f979e1477f641f2380"
+    }
+   ]
+  },
+  {
+   "slug": "450-012",
+   "short": "GS 450.012",
+   "title": "Standeskommissionsbeschluss über die Errichtung von Pflanzenschutzgebieten",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/450.012",
+   "versions": [
+    {
+     "from": "2006-08-14",
+     "units": 3,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/450.012",
+     "sha256": "51db00093be277173f8ab5f44335a59714b4a384441bdc6c9d6eb40d39f536d5"
+    }
+   ]
+  },
+  {
+   "slug": "450-013",
+   "short": "GS 450.013",
+   "title": "Standeskommissionsbeschluss über den Fonds für Naturschutz",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/450.013",
+   "versions": [
+    {
+     "from": "2014-01-28",
+     "units": 7,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/450.013",
+     "sha256": "625a7ab407647a7b6d4ce66608ae9232edc05f2e332fce181775d28114f4d992"
+    }
+   ]
+  },
+  {
+   "slug": "450-014",
+   "short": "GS 450.014",
+   "title": "Standeskommissionsbeschluss über die Naturschutzbeiträge",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/450.014",
+   "versions": [
+    {
+     "from": "2018-01-02",
+     "units": 20,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/450.014/versions/1652",
+     "sha256": "e5a52be0ecd89822bed8d4f6658689b19c8fecf5ad1febf971a35691b85a991b"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 20,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/450.014",
+     "sha256": "9bd0f0ba9aa2f8bdfc6e406a077edfc19c040a3cc9d02d116c3a9de05bb2c3ee"
+    }
+   ]
+  },
+  {
+   "slug": "454-001",
+   "short": "GS 454.001",
+   "title": "Standeskommissionsbeschluss über die Moorlandschaften Schwägalp und Fähnerenspitz",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/454.001",
+   "versions": [
+    {
+     "from": "2017-05-09",
+     "units": 27,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/454.001",
+     "sha256": "a0783c543b82d45b61e9c2d0110f41878b3b5c90405b902237a5a9fcdea653a9"
+    }
+   ]
+  },
+  {
+   "slug": "501-001",
+   "short": "GS 501.001",
+   "title": "Standeskommissionsbeschluss über die Organisation in ausserordentlichen Lagen",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/501.001",
+   "versions": [
+    {
+     "from": "2007-01-09",
+     "units": 9,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/501.001",
+     "sha256": "d62d24dae82cf1dd25355e18e6f3bccd8c1b146763fb2d6cf09aaa0fcfc04c32"
+    }
+   ]
+  },
+  {
+   "slug": "550-011",
+   "short": "GS 550.011",
+   "title": "Standeskommissionsbeschluss über das Dienstreglement der Kantonspolizei",
+   "url": "https://ai.clex.ch/app/de/texts_of_law/550.011",
+   "versions": [
+    {
+     "from": "2012-04-10",
+     "units": 32,
+     "source_url": "https://ai.clex.ch/api/de/texts_of_law/550.011",
+     "sha256": "8e07ab909bcd210bffb14c7ac1a5f2645000258cfcdf3d2b974078f486685e8a"
+    }
+   ]
   }
  ]
 }
