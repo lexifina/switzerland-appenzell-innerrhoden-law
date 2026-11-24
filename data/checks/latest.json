@@ -1,27 +1,27 @@
 {
- "generated": "2026-11-24T12:57:44Z",
+ "generated": "2026-11-24T15:04:21Z",
  "latest": {
   "lexwork-appenzell-innerrhoden|switzerland/appenzell-innerrhoden/acts": {
-   "attempt": 2,
+   "attempt": 3,
    "audit": null,
    "census": {
     "checked": 41,
-    "current": 283,
+    "current": 282,
     "gone": 0,
     "held": 283,
     "not_at_source": 7,
     "out_of_scope": 8,
-    "pending": 123,
+    "pending": 124,
     "repo": 283,
     "source_in_scope": 406
    },
-   "check_id": "ch-lexwork-appenzell-innerrhoden-20261124T125448Z",
+   "check_id": "ch-lexwork-appenzell-innerrhoden-20261124T143026Z",
    "commits": null,
    "corpus": "switzerland/appenzell-innerrhoden/acts",
-   "error": "RuntimeError: the kit's append gate: error: published head 86a4999814f03427b9ecc6983246d49e2fe1d70b timestamp 1795521572 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
-   "finished": "2026-11-24T12:57:43Z",
+   "error": "RuntimeError: the kit's append gate: error: published head 73d0562f962d2f65ae9c097d51e1db054b0ccb1f timestamp 1795521572 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T14:33:30Z",
    "flags": [],
-   "gap": 130,
+   "gap": 131,
    "note": "ai.clex.ch: index of 421 acts (421 in force); held 283; 123 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 7 published only as PDF; 41 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
@@ -29,7 +29,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 167,
+   "requests": 174,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -158,18 +158,20 @@
      "963.113",
      "963.401"
     ],
-    "changed": [],
+    "changed": [
+     "311.010"
+    ],
     "removed": []
    },
    "snapshot": "421 entries, 421 in force (ai.clex.ch)",
    "source": "lexwork-appenzell-innerrhoden",
-   "started": "2026-11-24T12:54:48Z",
+   "started": "2026-11-24T14:30:26Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 123,
-    "nothing_new": 0,
+    "nothing_new": 1,
     "parts": [
      "95-watch-20261124-000-new.json"
     ],

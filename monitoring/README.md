@@ -6,7 +6,7 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Appenzell Innerrhoden: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 12:57 UTC, Appenzell Innerrhoden: Systematische Sammlung (ai.clex.ch): 167 Adressen gelesen; 123 hinzugefügt, 0 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 130 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-24 14:33 UTC, Appenzell Innerrhoden: Systematische Sammlung (ai.clex.ch): 174 Adressen gelesen; 123 hinzugefügt, 1 geändert, 0 entfernt; die Prüfung ist fehlgeschlagen; 131 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
@@ -18,6 +18,7 @@ Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.co
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-24 14:30](checks/2026-11.md#ch-lexwork-appenzell-innerrhoden-20261124t143026z) | lexwork-appenzell-innerrhoden | 174 | 123 | 1 | 0 | 131 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 12:54](checks/2026-11.md#ch-lexwork-appenzell-innerrhoden-20261124t125448z) | lexwork-appenzell-innerrhoden | 167 | 123 | 0 | 0 | 130 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-24 11:51](checks/2026-11.md#ch-lexwork-appenzell-innerrhoden-20261124t115103z) | lexwork-appenzell-innerrhoden | 493 | 130 | 0 | 0 | 135 (0) | die Prüfung ist fehlgeschlagen | — |
 
