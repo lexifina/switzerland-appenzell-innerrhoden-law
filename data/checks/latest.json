@@ -1,8 +1,8 @@
 {
- "generated": "2026-11-24T11:59:32Z",
+ "generated": "2026-11-24T12:57:44Z",
  "latest": {
   "lexwork-appenzell-innerrhoden|switzerland/appenzell-innerrhoden/acts": {
-   "attempt": 1,
+   "attempt": 2,
    "audit": null,
    "census": {
     "checked": 41,
@@ -11,36 +11,29 @@
     "held": 283,
     "not_at_source": 7,
     "out_of_scope": 8,
-    "pending": 130,
+    "pending": 123,
     "repo": 283,
-    "source_in_scope": 413
+    "source_in_scope": 406
    },
-   "check_id": "ch-lexwork-appenzell-innerrhoden-20261124T115103Z",
+   "check_id": "ch-lexwork-appenzell-innerrhoden-20261124T125448Z",
    "commits": null,
    "corpus": "switzerland/appenzell-innerrhoden/acts",
-   "error": "RuntimeError: the kit's append gate: error: append-only: refusing to replace existing tag 550-710/2012-06-18",
-   "finished": "2026-11-24T11:59:31Z",
+   "error": "RuntimeError: the kit's append gate: error: published head 86a4999814f03427b9ecc6983246d49e2fe1d70b timestamp 1795521572 exceeds capped documentation time 1795518000; wait or use a later docs-date; never rewrite it",
+   "finished": "2026-11-24T12:57:43Z",
    "flags": [],
-   "gap": 135,
-   "note": "ai.clex.ch: index of 421 acts (421 in force); held 283; 130 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 41 held acts compared with the collection this check (every one within 7 days); 130 candidate acts read",
+   "gap": 130,
+   "note": "ai.clex.ch: index of 421 acts (421 in force); held 283; 123 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 7 published only as PDF; 41 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "failed",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 493,
-   "runner": "lawwatch switzerland (5f59fe7c67)",
+   "requests": 167,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [
-     "132.200",
-     "175.220",
-     "175.230",
-     "175.240",
-     "175.250",
-     "351.910",
-     "351.911",
      "550.710",
      "550.711",
      "550.910",
@@ -170,7 +163,7 @@
    },
    "snapshot": "421 entries, 421 in force (ai.clex.ch)",
    "source": "lexwork-appenzell-innerrhoden",
-   "started": "2026-11-24T11:51:03Z",
+   "started": "2026-11-24T12:54:48Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -180,7 +173,7 @@
     "parts": [
      "95-watch-20261124-000-new.json"
     ],
-    "pdf_only": 7,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
