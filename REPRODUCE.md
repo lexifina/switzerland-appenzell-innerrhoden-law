@@ -1,6 +1,6 @@
 # How this repository was made (Appenzell Innerrhoden)
 
-This file is written by the build on 2026-10-30, the day the source data was retrieved.
+This file is written by the build on 2026-11-25, the day the source data was retrieved.
 
 ## Sources
 
@@ -297,20 +297,145 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `454-001` | Standeskommissionsbeschluss über die Moorlandschaften Schwägalp und Fähnerenspitz | 1 | 2017-05-09 to 2017-05-09 |
 | `501-001` | Standeskommissionsbeschluss über die Organisation in ausserordentlichen Lagen | 1 | 2007-01-09 to 2007-01-09 |
 | `550-011` | Standeskommissionsbeschluss über das Dienstreglement der Kantonspolizei | 1 | 2012-04-10 to 2012-04-10 |
+| `550-710` | Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2012-06-18 to 2012-06-18 |
+| `550-711` | Grossratsbeschluss über den Beitritt zum Konkordat über Massnahmen gegen Gewalt anlässlich von Sportveranstaltungen | 1 | 2014-12-01 to 2014-12-01 |
+| `550-910` | Interkantonale Vereinbarung über die polizeiliche Zusammenarbeit | 1 | 1977-06-01 to 1977-06-01 |
+| `550-911` | Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung über die polizeiliche Zusammenarbeit | 1 | 2014-12-01 to 2014-12-01 |
+| `550-912-ikapol` | Vereinbarung über die interkantonalen Polizeieinsätze | 2 | 2022-01-01 to 2025-01-01 |
+| `600-000` | Landsgemeindebeschluss betreffend den Übergang des Vermögens des Inneren Landes und des Äusseren Landes | 1 | 1997-01-01 to 1997-01-01 |
+| `611-001` | Standeskommissionsbeschluss über die Rechnungslegung | 3 | 2016-01-05 to 2025-01-01 |
+| `613-910-rahmenvereinbarung-irv` | Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2007-05-11 to 2007-05-11 |
+| `613-911-rahmenvereinbarung-irv` | Grossratsbeschluss betreffend Beitritt zur Rahmenvereinbarung für die interkantonale Zusammenarbeit mit Lastenausgleich | 1 | 2014-12-01 to 2014-12-01 |
+| `640-011-stkb-steuern` | Standeskommissionsbeschluss zum Steuergesetz und zur Steuerverordnung | 7 | 2018-01-01 to 2026-01-01 |
+| `640-012-stkb-staf` | Standeskommissionsbeschluss zur vorläufigen Umsetzung des Bundesgesetzes über die Steuerreform und AHV-Finanzierung | 2 | 2016-01-01 to 2020-01-01 |
+| `640-013-stkb-leibrenten` | Standeskommissionsbeschluss zur vorläufigen Umsetzung des Bundesgesetzes über die Besteuerung von Leibrenten und ähnlichen Vorsorgeformen vom 17. Juni 2022 | 1 | 2025-01-01 to 2025-01-01 |
+| `640-014-stkb-telearbeit` | Standeskommissionsbeschluss zur vorläufigen Umsetzung des Bundesgesetzes über die Besteuerung der Telearbeit im internationalen Verhältnis | 1 | 2026-01-01 to 2026-01-01 |
+| `648-910` | Grossratsbeschluss über eine Gegenrechtserklärung an den Kanton Bern betreffend die Befreiung von der Erbschafts- und Vermächtnissteuer | 1 | 1979-01-16 to 1979-01-16 |
+| `648-921` | Gegenrechtsvereinbarung zwischen der Standeskommission des Kantons Appenzell I.Rh. und dem Regierungsrat des Kantons Appenzell A.Rh. über die Steuerbefreiung von Zuwendungen für öffentliche, gemeinnützige, wohltätige, religiöse oder wissenschaftliche Zwecke auf dem Gebiete der Erbschafts-, Vermächtnis- und Schenkungssteuern | 1 | 1969-01-28 to 1969-01-28 |
+| `648-922` | Gegenrechtsvereinbarung zwischen den Kantonen Zürich und Appenzell I.Rh. über die Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer | 1 | 1997-03-05 to 1997-03-05 |
+| `648-923` | Gegenrechtsvereinbarung zwischen den Kantonen Appenzell I.Rh. und Aargau über die Befreiung von der Erbschafts- und Schenkungssteuer | 1 | 1997-01-01 to 1997-01-01 |
+| `648-924` | Gegenrechtsvereinbarung zwischen den Kantonen Appenzell I.Rh. und St. Gallen über die Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer | 1 | 1998-01-06 to 1998-01-06 |
+| `648-925` | Gegenrechtsvereinbarung zwischen den Kantonen Appenzell I.Rh. und Uri über die Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer | 1 | 1997-01-01 to 1997-01-01 |
+| `648-926` | Gegenrechtsvereinbarung zwischen den Kantonen Basel-Stadt und Appenzell I.Rh. über die Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer | 1 | 2007-04-17 to 2007-04-17 |
+| `648-927` | Gegenrechtsvereinbarung zwischen den Kantonen Basel-Landschaft und Appenzell I.Rh. über die Befreiung von Zuwendungen von der Erbschafts- und Schenkungssteuer | 1 | 2008-05-26 to 2008-05-26 |
+| `656-010` | Grossratsbeschluss zur Festsetzung der Steuerparameter für das Jahr 2026 | 9 | 2017-12-04 to 2026-01-01 |
+| `658-002` | Standeskommissionsbeschluss zum Bundesgesetz über die Verrechnungssteuer | 1 | 2006-09-12 to 2006-09-12 |
+| `671-910` | Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen | 1 | 1949-10-06 to 1949-10-06 |
+| `671-911` | Standeskommissionsbeschluss betreffend Beitritt des Kantons Appenzell I. Rh. zum Konkordat zwischen den Kantonen der Schweizerischen Eidgenossenschaft über den Ausschluss von Steuerabkommen | 1 | 1949-04-09 to 1949-04-09 |
+| `672-001` | Standeskommissionsbeschluss über die pauschale Steueranrechnung | 1 | 2006-12-19 to 2006-12-19 |
+| `690-910` | Interkantonale Vereinbarung über den Salzverkauf in der Schweiz | 1 | 1975-10-01 to 1975-10-01 |
+| `690-911` | Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über den Salzverkauf in der Schweiz | 1 | 2004-10-25 to 2004-10-25 |
+| `700-011` | Standeskommissionsbeschluss über Aussenreklamen und Anschlagstellen | 1 | 2014-09-16 to 2014-09-16 |
+| `700-012` | Standeskommissionsbeschluss über Schatzung von Pistenschäden | 1 | 2014-09-16 to 2014-09-16 |
+| `700-014-stkb-abstellplatze` | Standeskommissionsbeschluss über die Festlegung der Anzahl Abstellplätze für Motorfahrzeuge bei Bauten mit besonderem Publikumsandrang | 1 | 2014-09-16 to 2014-09-16 |
+| `700-015` | Standeskommissionsbeschluss über die Baubewilligungspflicht von Solaranlagen | 1 | 2014-07-01 to 2014-07-01 |
+| `700-016` | Standeskommissionsbeschluss über die Marktwert- und Bodenmehrwertschätzung | 1 | 2018-11-01 to 2018-11-01 |
+| `700-910-ivhb` | Interkantonale Vereinbarung über die Harmonisierung der Baubegriffe | 1 | 2016-01-01 to 2016-01-01 |
+| `700-911-ivhb` | Grossratsbeschluss für den Beitritt zur Interkantonalen Vereinbarung über die Harmonisierung der Baubegriffe | 1 | 2016-01-01 to 2016-01-01 |
+| `721-301` | Standeskommissionsbeschluss über den Fonds für die Unterstützung der Wasserversorgungen | 1 | 2004-08-16 to 2004-08-16 |
+| `726-910` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2005-10-31 to 2005-10-31 |
+| `726-911` | Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2014-12-01 to 2014-12-01 |
+| `726-920-ivob` | Interkantonale Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2021-07-01 to 2021-07-01 |
+| `726-921` | Grossratsbeschluss zum Beitritt zur Interkantonalen Vereinbarung über das öffentliche Beschaffungswesen | 1 | 2021-02-08 to 2021-02-08 |
+| `730-011-stkb-enerv` | Standeskommissionsbeschluss zur Energieverordnung | 1 | 2020-04-01 to 2020-04-01 |
+| `731-910` | Vertrag zwischen den St. Gallisch-Appenzellischen Kraftwerken AG, St. Gallen im Nachstehenden «SAK» genannt und dem Kanton Appenzell I. Rh. im Nachstehenden «Kanton» genannt betreffend Beitritt des Kantons Appenzell I. Rh. zu den SAK | 1 | 2004-10-25 to 2004-10-25 |
+| `740-301-stkb-bkov` | Standeskommissionsbeschluss über die Bezirkskosten für den öffentlichen Verkehr | 1 | 2022-01-01 to 2022-01-01 |
+| `741-011` | Standeskommissionsbeschluss über die Höhe der Strassenverkehrsabgaben | 4 | 2020-01-01 to 2026-01-01 |
+| `741-012-stkb-parkgebuhren` | Standeskommissionsbeschluss über das gebührenpflichtige Parkieren | 8 | 2016-10-01 to 2026-05-01 |
+| `741-013-stkb-uberschuss-strassenrechnung` | Standeskommissionsbeschluss über die Verwendung des Überschusses aus der Strassenrechnung | 1 | 2020-01-01 to 2020-01-01 |
+| `741-014` | Standeskommissionsbeschluss über die Schiffsführerausweise | 1 | 2026-01-01 to 2026-01-01 |
+| `800-011-stkb-pflegefinanzierung` | Standeskommissionsbeschluss über die Pflegefinanzierung | 5 | 2018-01-01 to 2026-04-01 |
+| `801-301` | Standeskommissionsbeschluss über den Fonds für das Alter | 1 | 2005-08-30 to 2005-08-30 |
+| `801-302` | Standeskommissionsbeschluss über den Fonds für Alterseinrichtungen im Feuerschaukreis | 1 | 2014-12-16 to 2014-12-16 |
+| `810-012-stkb-entschadigung-ggz` | Standeskommissionsbeschluss über die Entschädigung der Organe des Gesundheitszentrums Appenzell | 2 | 2019-01-01 to 2020-12-01 |
+| `810-013` | Personalregelungen für das Kantonale Spital und das Pflegeheim Appenzell | 3 | 2017-01-01 to 2021-01-01 |
+| `810-251-stkb-gesundheitsversorgung` | Standeskommissionsbeschluss betreffend Einrichtungen der Gesundheitsversorgung | 4 | 2007-04-17 to 2026-04-01 |
+| `811-001` | Standeskommissionsbeschluss über die medizinischen Berufe | 3 | 2016-05-24 to 2026-02-17 |
+| `811-002-stkb-andere-gesundheitsberufe` | Standeskommissionsbeschluss über die Ausübung der anderen Berufe des Gesundheitswesens | 3 | 2009-01-01 to 2026-04-01 |
+| `811-004-stkb-fopf` | Standeskommissionsbeschluss über die Förderung der Pflegeausbildung | 1 | 2024-11-01 to 2024-11-01 |
+| `811-911` | Grossratsbeschluss über den Beitritt zur Weiterbildungsfinanzierungsvereinbarung | 1 | 2016-10-24 to 2016-10-24 |
+| `812-001` | Standeskommissionsbeschluss über den Verkehr mit Heilmitteln | 1 | 2016-06-21 to 2016-06-21 |
+| `814-101-stkb-abfall` | Standeskommissionsbeschluss über Abfallbewirtschaftung und Gebührenbezug | 3 | 2015-01-01 to 2025-01-01 |
+| `814-311-stkb-abwasser` | Standeskommissionsbeschluss über Abwasserbehandlung und Gebührenbezug | 1 | 2012-01-01 to 2012-01-01 |
+| `814-801` | Standeskommissionsbeschluss über den Vollzug der Chemikaliengesetzgebung | 1 | 2008-09-09 to 2008-09-09 |
+| `814-911` | Vereinbarung zwischen den Kantonen Appenzell A.Rh. und Appenzell I.Rh. über Bau und Betrieb einer regionalen Multikomponentendeponie | 1 | 1997-01-01 to 1997-01-01 |
+| `817-212-stkb-vet` | Standeskommissionsbeschluss über die Entschädigungen und Gebühren im Veterinärwesen | 2 | 2018-07-03 to 2025-01-01 |
+| `817-401-stkb-laborgebuhren` | Standeskommissionsbeschluss über den Gebührentarif für das Interkantonale Labor | 3 | 2004-08-16 to 2026-07-01 |
+| `818-101` | Standeskommissionsbeschluss über die Bekämpfung übertragbarer Krankheiten des Menschen | 1 | 2016-05-24 to 2016-05-24 |
+| `821-001` | Standeskommissionsbeschluss über den Normalarbeitsvertrag für landwirtschaftliche Arbeitsverhältnisse | 1 | 2004-08-16 to 2004-08-16 |
+| `821-002-nav-hw` | Standeskommissionsbeschluss über den Normalarbeitsvertrag für hauswirtschaftliche Arbeitsverhältnisse | 1 | 2018-05-01 to 2018-05-01 |
+| `822-004` | Vertrag zwischen dem Kanton Appenzell I.Rh. nachfolgend Kanton genannt einerseits, und dem Schweizerischen Acetylen-Verein, mit Sitz in Basel nachfolgend Acetylen-Verein genannt andererseits, | 1 | 1955-01-01 to 1955-01-01 |
+| `823-302` | Standeskommissionsbeschluss über die Entsendung und die Schwarzarbeit | 1 | 2008-01-01 to 2008-01-01 |
+| `831-011` | Standeskommissionsbeschluss über die Verwaltungskostenbeiträge in der Alters- und Hinterlassenenversicherung | 1 | 2005-08-30 to 2005-08-30 |
+| `831-101` | Standeskommissionsbeschluss über die Geschäftsführung der kantonalen Ausgleichskasse | 1 | 2005-08-30 to 2005-08-30 |
+| `831-211-stkb-gel` | Standeskommissionsbeschluss zum Gesetz über Ergänzungsleistungen zur Alters-, Hinterlassenen- und Invalidenversicherung | 3 | 2017-01-03 to 2024-01-01 |
+| `832-011-stkb-versicherungspflicht` | Standeskommissionsbeschluss über die Kontrolle der Einhaltung der Versicherungspflicht | 1 | 2020-01-01 to 2020-01-01 |
+| `832-012-stkb-zulassung-okp` | Standeskommissionsbeschluss über die Zulassung zur Leistungserbringung zulasten der obligatorischen Krankenpflegeversicherung | 3 | 2022-01-01 to 2025-07-01 |
+| `832-500` | Landsgemeindebeschluss über die Prämienverbilligung zur Krankenpflegegrundversicherung | 1 | 2011-01-01 to 2011-01-01 |
+| `832-501-stkb-ipv` | Standeskommissionsbeschluss über die individuelle Prämienverbilligung in der Krankenversicherung | 10 | 2018-01-01 to 2026-01-01 |
+| `832-801` | Standeskommissionsbeschluss zum Bundesgesetz über die Unfallversicherung | 1 | 2014-09-16 to 2014-09-16 |
+| `836-011-stkb-fz` | Standeskommissionsbeschluss über die Beiträge an die Aufwendungen für die Ausrichtung der Familienzulagen | 4 | 2014-09-16 to 2026-01-01 |
+| `837-101` | Standeskommissionsbeschluss über die Organisation und die Zuständigkeit der öffentlichen Arbeitslosenkasse | 1 | 2005-08-30 to 2005-08-30 |
+| `837-501` | Standeskommissionsbeschluss über die regionale Arbeitsvermittlung | 2 | 2005-08-30 to 2018-12-04 |
+| `850-511` | Standeskommissionsbeschluss betreffend den Fonds für soziale Härtefälle und besondere Förderbedürfnisse | 1 | 2011-08-29 to 2011-08-29 |
+| `900-011` | Standeskommissionsbeschluss über den Fonds Wirtschaftsförderung Landwirtschaft | 1 | 2013-01-15 to 2013-01-15 |
+| `900-012-stkb-wifo` | Standeskommissionsbeschluss über die Wirtschaftsförderung | 1 | 2016-11-22 to 2016-11-22 |
+| `900-300` | Landsgemeindebeschluss betreffend Erteilung eines Kredites für den Erwerb von Grundstücken durch den Kanton | 1 | 2005-04-24 to 2005-04-24 |
+| `910-211` | Standeskommissionsbeschluss über Qualität und Vernetzung von ökologischen Ausgleichsflächen in der Landwirtschaft | 1 | 2005-08-30 to 2005-08-30 |
+| `910-212-stkb-herdenschutz` | Standeskommissionsbeschluss über den kantonalen Herdenschutz | 1 | 2024-05-15 to 2024-05-15 |
+| `913-011` | Standeskommissionsbeschluss über den Fonds für finanzielle Unterstützung der Landwirtschaft | 2 | 2009-09-01 to 2026-04-01 |
+| `913-021-stkb-bvu` | Standeskommissionsbeschluss zur Verordnung über Beiträge an den Unterhalt von Strassen und Seilbahnen | 1 | 2021-01-01 to 2021-01-01 |
+| `916-131` | Standeskommissionsbeschluss über die Bekämpfung des Feuerbrandes | 1 | 2005-08-30 to 2005-08-30 |
+| `916-351` | Standeskommissionsbeschluss über die Benutzung der Marke «Appenzeller Milch» | 2 | 2014-09-16 to 2021-07-01 |
+| `916-421-stkb-tgv` | Standeskommissionsbeschluss zur Tiergesundheitsverordnung | 1 | 2025-01-01 to 2025-01-01 |
+| `916-611-stkb-weinv` | Standeskommissionsbeschluss zur Weinverordnung | 1 | 2022-08-01 to 2022-08-01 |
+| `921-910` | Errichtung der Stiftung «Interkantonale Försterschule Maienfeld» | 1 | 1972-10-11 to 1972-10-11 |
+| `921-911` | Standeskommissionsbeschluss betreffend den Beitritt zur Stiftung «Interkantonale Försterschule Maienfeld» | 1 | 2005-08-30 to 2005-08-30 |
+| `921-912-ifm` | Vereinbarung über den Ausbau und Betrieb der Interkantonalen Försterschule Maienfeld | 1 | 1993-01-01 to 1993-01-01 |
+| `922-011-hegereglement` | Standeskommissionsbeschluss über die Hege des Wildes | 1 | 2004-08-16 to 2004-08-16 |
+| `922-101` | Standeskommissionsbeschluss über die Jagdprüfung | 3 | 2018-06-01 to 2024-08-01 |
+| `922-102-stkb-jagd` | Standeskommissionsbeschluss über die Jagd | 6 | 2021-07-15 to 2026-07-01 |
+| `922-103-stkb-steinbocke` | Standeskommissionsbeschluss über die Regulierung von Steinböcken | 4 | 2022-02-08 to 2026-07-01 |
+| `922-201` | Standeskommissionsbeschluss über den Treffsicherheitsnachweis | 1 | 2015-06-30 to 2015-06-30 |
+| `922-301-wildschadenreglement` | Standeskommissionsbeschluss über die Verhütung und Vergütung von Wildschaden | 1 | 2011-10-18 to 2011-10-18 |
+| `922-911` | Vereinbarung über die Ausübung der Jagd in der Gemeinde Reute und im Bezirk Oberegg | 1 | 1955-09-26 to 1955-09-26 |
+| `923-011` | Standeskommissionsbeschluss über den Fischereifonds | 1 | 2004-08-16 to 2004-08-16 |
+| `923-012` | Standeskommissionsbeschluss über den Fähigkeitsausweis zur Ausübung der Fischerei | 3 | 2007-01-01 to 2025-04-01 |
+| `923-013-stkb-fischerei` | Standeskommissionsbeschluss über die Fischerei | 6 | 2020-02-10 to 2026-04-01 |
+| `923-911` | Vereinbarung über die Fischerei in den Grenzgewässern | 1 | 1981-01-01 to 1981-01-01 |
+| `935-111-stkb-tourismusforderung` | Standeskommissionsbeschluss über den Fonds für die Tourismusförderung | 2 | 2004-08-16 to 2020-01-01 |
+| `935-301` | Standeskommissionsbeschluss über den Fähigkeitsausweis für den Wirteberuf | 3 | 2009-08-10 to 2026-01-01 |
+| `935-512` | Standeskommissionsbeschluss über den Sportfonds | 2 | 2004-11-23 to 2021-01-01 |
+| `935-530` | Interkantonale Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten | 1 | 2009-07-01 to 2009-07-01 |
+| `935-531` | Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung über die Aufsicht sowie die Bewilligung und Ertragsverwendung von interkantonal oder gesamtschweizerisch durchgeführten Lotterien und Wetten | 1 | 2014-12-01 to 2014-12-01 |
+| `935-533` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Lotterien | 1 | 1937-12-02 to 1937-12-02 |
+| `935-534` | Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Lotterien | 1 | 2014-12-01 to 2014-12-01 |
+| `935-540-gsk` | Gesamtschweizerisches Geldspielkonkordat | 1 | 2021-01-01 to 2021-01-01 |
+| `935-541-gsk` | Grossratsbeschluss über den Beitritt zum Gesamtschweizerischen Geldspielkonkordat vom 20. Mai 2019 | 1 | 2021-01-01 to 2021-01-01 |
+| `935-545-ikv-2020` | Interkantonale Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen | 1 | 2021-01-01 to 2021-01-01 |
+| `935-546` | Grossratsbeschluss über den Beitritt zur Interkantonalen Vereinbarung betreffend die gemeinsame Durchführung von Geldspielen vom 20. Mai 2019 | 1 | 2021-01-01 to 2021-01-01 |
+| `943-010-ivth` | Interkantonale Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2000-02-28 to 2000-02-28 |
+| `943-011-ivth` | Grossratsbeschluss betreffend Beitritt zur Interkantonalen Vereinbarung zum Abbau technischer Handelshemmnisse | 1 | 2014-12-01 to 2014-12-01 |
+| `963-111` | Standeskommissionsbeschluss über die Verwendung des Feuerwehrfonds | 2 | 2006-02-07 to 2025-07-01 |
+| `963-112` | Standeskommissionsbeschluss über die Feuerwehrersatzabgabe | 1 | 2014-09-16 to 2014-09-16 |
+| `963-113` | Kaminfegerordnung | 1 | 2022-10-17 to 2022-10-17 |
+| `963-401` | Standeskommissionsbeschluss über den Elementarschaden-Hilfsfonds | 1 | 2014-04-08 to 2014-04-08 |
 
-The build made 455 commits:
+The build made 667 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 283 | first version of an act |
-| 172 | one law on its in-force day |
+| 247 | baseline texts where the record starts |
+| 420 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 1 commits on the branch `zukunft`: laws not yet in force on 2026-10-30.
-- 3 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 540 laws in the record.
-- 735 tags.
+- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-25.
+- 9 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
+- 779 laws in the record.
+- 1084 tags.
 
 ## Dates
 
@@ -322,13 +447,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `f1467b878f44b8e48e78ccf2407d076508a242450c7d28d7a34eff9a9570ba8e` (4435421 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `f670328940558107da3c783e86ebcd78fba5f863a8408092e2f8e62d94c297df` (5715059 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-491 versions of 283 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -342,7 +467,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
