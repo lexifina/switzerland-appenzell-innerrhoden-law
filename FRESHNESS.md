@@ -8,9 +8,9 @@ Wie global-law misst, wie aktuell jedes Land ist: [global-law FRESHNESS.md](http
 
 ### Appenzell Innerrhoden: Systematische Sammlung (ai.clex.ch) · `switzerland/appenzell-innerrhoden/acts`
 
-- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-25 05:52 UTC**.
-- Vorschriften hier: 283; aktuell gegenüber der Quelle: 283; an der Quelle geändert seit der Fassung hier: 123; nicht mehr an der Quelle: 0.
-- In diesem Lesen mit der Quelle verglichen: 164 der 283 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
+- Die amtliche Quelle zuletzt gelesen und jede Vorschrift hier mit ihr abgeglichen: **2026-11-26 05:42 UTC**.
+- Vorschriften hier: 406; aktuell gegenüber der Quelle: 406; an der Quelle geändert seit der Fassung hier: 0; nicht mehr an der Quelle: 0.
+- In diesem Lesen mit der Quelle verglichen: 61 der 406 Vorschriften hier; die übrigen wurden in diesem Lesen nicht verglichen (siehe die Anmerkung der Prüfung).
 - Nicht veröffentlicht: 7 (hier vorhanden, an der Quelle nicht mehr: 7); ohne Grund: 0.
 
 Im Einzelnen: [monitoring/](monitoring/README.md). Für Programme: [data/checks/latest.json](data/checks/latest.json).
