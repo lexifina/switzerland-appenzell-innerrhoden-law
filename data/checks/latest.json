@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T07:11:32Z",
+ "generated": "2026-11-28T08:33:55Z",
  "latest": {
   "lexwork-appenzell-innerrhoden|switzerland/appenzell-innerrhoden/acts": {
    "attempt": 1,
@@ -13,54 +13,52 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 61,
-    "current": 405,
+    "checked": 62,
+    "current": 406,
     "gone": 0,
     "held": 406,
     "not_at_source": 7,
     "out_of_scope": 8,
-    "pending": 1,
+    "pending": 0,
     "repo": 406,
     "source_in_scope": 406
    },
-   "check_id": "ch-lexwork-appenzell-innerrhoden-20261127T054121Z",
+   "check_id": "ch-lexwork-appenzell-innerrhoden-20261128T054021Z",
    "commits": null,
    "corpus": "switzerland/appenzell-innerrhoden/acts",
    "error": null,
-   "finished": "2026-11-27T05:43:52Z",
+   "finished": "2026-11-28T05:42:39Z",
    "flags": [
     {
-     "detail": "5 of 117 texts differ from the source",
+     "detail": "5 of 102 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
-   "gap": 9,
-   "note": "ai.clex.ch: index of 421 acts (421 in force); held 406; 0 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 7 published only as PDF; 61 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
-   "outcome": "changed",
+   "gap": 7,
+   "note": "ai.clex.ch: index of 421 acts (421 in force); held 406; 0 in force and in scope not held yet, 8 out of scope (land-use plans, concessions, directives, forms: as the builder), 7 published only as PDF; 62 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 143,
+   "requests": 130,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
     "added": [],
-    "changed": [
-     "741.012"
-    ],
+    "changed": [],
     "removed": []
    },
    "snapshot": "421 entries, 421 in force (ai.clex.ch)",
    "source": "lexwork-appenzell-innerrhoden",
-   "started": "2026-11-27T05:41:21Z",
+   "started": "2026-11-28T05:40:21Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 6,
+    "nothing_new": 5,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -69,19 +67,19 @@
    "verify": {
     "cycle_days": 7,
     "examples": [
+     "832.501 (832-501-stkb-ipv): 2019-01-01",
      "800.011 (800-011-stkb-pflegefinanzierung): 2018-01-01",
      "811.002 (811-002-stkb-andere-gesundheitsberufe): 2019-01-01",
      "640.000 (640-000-stg): 2017-10-23",
-     "640.011 (640-011-stkb-steuern): 2020-01-01, 2024-01-01",
-     "832.501 (832-501-stkb-ipv): 2019-01-01"
+     "640.011 (640-011-stkb-steuern): 2020-01-01, 2024-01-01"
     ],
     "held": 406,
-    "method": "each act compared this check (61 of 406: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from ai.clex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "method": "each act compared this check (62 of 406: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from ai.clex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {},
     "not_compared_why": null,
     "ok": false,
-    "swept": 61,
-    "versions_checked": 117,
+    "swept": 62,
+    "versions_checked": 102,
     "versions_differ": 5
    }
   }
